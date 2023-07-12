@@ -1,0 +1,3745 @@
+customer_city,payment_type,count
+sao paulo,credit_card,12226
+rio de janeiro,credit_card,5525
+belo horizonte,credit_card,2233
+brasilia,credit_card,1693
+curitiba,credit_card,1136
+campinas,credit_card,1078
+porto alegre,credit_card,1054
+salvador,credit_card,1018
+guarulhos,credit_card,925
+sao bernardo do campo,credit_card,727
+niteroi,credit_card,684
+santo andre,credit_card,612
+osasco,credit_card,569
+santos,credit_card,539
+fortaleza,credit_card,537
+goiania,credit_card,535
+sao jose dos campos,credit_card,509
+recife,credit_card,494
+sorocaba,credit_card,476
+florianopolis,credit_card,448
+jundiai,credit_card,446
+ribeirao preto,credit_card,399
+nova iguacu,credit_card,368
+contagem,credit_card,347
+barueri,credit_card,343
+juiz de fora,credit_card,341
+belem,credit_card,332
+sao goncalo,credit_card,315
+uberlandia,credit_card,301
+vitoria,credit_card,300
+mogi das cruzes,credit_card,291
+piracicaba,credit_card,285
+carapicuiba,credit_card,262
+sao luis,credit_card,258
+maua,credit_card,258
+vila velha,credit_card,257
+sao jose do rio preto,credit_card,255
+londrina,credit_card,251
+praia grande,credit_card,247
+campo grande,credit_card,239
+sao caetano do sul,credit_card,232
+teresina,credit_card,229
+taboao da serra,credit_card,226
+serra,credit_card,215
+taubate,credit_card,213
+duque de caxias,credit_card,211
+diadema,credit_card,210
+maringa,credit_card,210
+joinville,credit_card,208
+bauru,credit_card,204
+maceio,credit_card,202
+joao pessoa,credit_card,201
+petropolis,credit_card,199
+indaiatuba,credit_card,196
+campos dos goytacazes,credit_card,194
+cotia,credit_card,193
+cuiaba,credit_card,189
+sao carlos,credit_card,183
+macae,credit_card,182
+guaruja,credit_card,182
+caxias do sul,credit_card,174
+volta redonda,credit_card,174
+americana,credit_card,171
+aracaju,credit_card,171
+suzano,credit_card,170
+natal,credit_card,165
+montes claros,credit_card,163
+marilia,credit_card,159
+canoas,credit_card,157
+betim,credit_card,156
+feira de santana,credit_card,152
+blumenau,credit_card,146
+limeira,credit_card,144
+valinhos,credit_card,143
+santana de parnaiba,credit_card,143
+uberaba,credit_card,140
+jacarei,credit_card,138
+santa maria,credit_card,138
+itaquaquecetuba,credit_card,135
+pelotas,credit_card,132
+sumare,credit_card,132
+sao jose,credit_card,129
+araraquara,credit_card,129
+presidente prudente,credit_card,127
+nova friburgo,credit_card,127
+ipatinga,credit_card,127
+cascavel,credit_card,126
+itapevi,credit_card,126
+embu das artes,credit_card,126
+franca,credit_card,126
+rio claro,credit_card,124
+sao vicente,credit_card,123
+atibaia,credit_card,122
+manaus,credit_card,117
+jaboatao dos guararapes,credit_card,113
+sao joao de meriti,credit_card,113
+governador valadares,credit_card,111
+itu,credit_card,111
+cariacica,credit_card,111
+braganca paulista,credit_card,111
+aracatuba,credit_card,109
+marica,credit_card,108
+rio das ostras,credit_card,108
+divinopolis,credit_card,105
+pouso alegre,credit_card,102
+sete lagoas,credit_card,102
+sao jose dos pinhais,credit_card,101
+ponta grossa,credit_card,98
+cachoeiro de itapemirim,credit_card,98
+pocos de caldas,credit_card,98
+paulinia,credit_card,97
+resende,credit_card,97
+hortolandia,credit_card,97
+rio grande,credit_card,97
+barra mansa,credit_card,97
+teresopolis,credit_card,94
+novo hamburgo,credit_card,94
+cabo frio,credit_card,92
+aparecida de goiania,credit_card,90
+anapolis,credit_card,90
+mage,credit_card,89
+gravatai,credit_card,88
+itajai,credit_card,87
+ribeirao pires,credit_card,87
+porto velho,credit_card,86
+belford roxo,credit_card,85
+franco da rocha,credit_card,84
+sao leopoldo,credit_card,83
+ferraz de vasconcelos,credit_card,82
+nilopolis,credit_card,82
+nova lima,credit_card,82
+patos de minas,credit_card,81
+palmas,credit_card,81
+francisco morato,credit_card,81
+santa luzia,credit_card,79
+botucatu,credit_card,78
+santa barbara d'oeste,credit_card,78
+pindamonhangaba,credit_card,77
+balneario camboriu,credit_card,76
+assis,credit_card,75
+olinda,credit_card,74
+caieiras,credit_card,74
+itatiba,credit_card,73
+ribeirao das neves,credit_card,73
+mogi-guacu,credit_card,72
+salto,credit_card,72
+palhoca,credit_card,72
+lages,credit_card,71
+cajamar,credit_card,71
+guaratingueta,credit_card,71
+vinhedo,credit_card,71
+vitoria da conquista,credit_card,71
+caraguatatuba,credit_card,70
+ananindeua,credit_card,70
+passo fundo,credit_card,70
+itajuba,credit_card,70
+araras,credit_card,70
+criciuma,credit_card,69
+conselheiro lafaiete,credit_card,69
+foz do iguacu,credit_card,69
+chapeco,credit_card,68
+araxa,credit_card,65
+itapecerica da serra,credit_card,65
+varginha,credit_card,65
+lavras,credit_card,64
+sao roque,credit_card,64
+mogi mirim,credit_card,63
+araruama,credit_card,63
+sao joao da boa vista,credit_card,62
+catanduva,credit_card,62
+sao joao del rei,credit_card,62
+angra dos reis,credit_card,62
+itabira,credit_card,62
+lauro de freitas,credit_card,62
+vicosa,credit_card,62
+lorena,credit_card,62
+ourinhos,credit_card,61
+viamao,credit_card,60
+barbacena,credit_card,60
+votorantim,credit_card,60
+itanhaem,credit_card,59
+ilheus,credit_card,59
+tatui,credit_card,59
+mesquita,credit_card,59
+jau,credit_card,59
+teofilo otoni,credit_card,57
+itapetininga,credit_card,57
+jaragua do sul,credit_card,57
+rio branco,credit_card,57
+mairipora,credit_card,57
+guarapari,credit_card,56
+cubatao,credit_card,56
+poa,credit_card,56
+rio verde,credit_card,56
+birigui,credit_card,55
+parnamirim,credit_card,55
+votuporanga,credit_card,54
+toledo,credit_card,54
+varzea paulista,credit_card,54
+ubatuba,credit_card,54
+manhuacu,credit_card,53
+aruja,credit_card,53
+jandira,credit_card,53
+avare,credit_card,53
+caruaru,credit_card,53
+barretos,credit_card,52
+petrolina,credit_card,52
+paracatu,credit_card,51
+campina grande,credit_card,51
+sertaozinho,credit_card,50
+dourados,credit_card,50
+pirassununga,credit_card,50
+valenca,credit_card,50
+sao sebastiao,credit_card,49
+lagoa santa,credit_card,49
+caratinga,credit_card,48
+linhares,credit_card,48
+tubarao,credit_card,47
+amparo,credit_card,47
+cachoeirinha,credit_card,47
+queimados,credit_card,47
+colombo,credit_card,47
+lins,credit_card,47
+itauna,credit_card,47
+colatina,credit_card,46
+itabuna,credit_card,46
+camacari,credit_card,46
+rondonopolis,credit_card,46
+cruzeiro,credit_card,45
+unai,credit_card,45
+barra do pirai,credit_card,45
+alvorada,credit_card,45
+pinhais,credit_card,45
+araguari,credit_card,45
+ituiutaba,credit_card,45
+brusque,credit_card,45
+muriae,credit_card,44
+cacapava,credit_card,44
+timoteo,credit_card,44
+guarapuava,credit_card,44
+ouro preto,credit_card,43
+fernandopolis,credit_card,43
+nova serrana,credit_card,43
+santa cruz do sul,credit_card,43
+jaguariuna,credit_card,42
+leme,credit_card,42
+itaborai,credit_card,42
+tupa,credit_card,42
+bento goncalves,credit_card,42
+ibirite,credit_card,42
+matao,credit_card,41
+itaguai,credit_card,41
+itapira,credit_card,41
+bage,credit_card,41
+joao monlevade,credit_card,41
+paranagua,credit_card,40
+bertioga,credit_card,40
+francisco beltrao,credit_card,40
+uba,credit_card,40
+jaboticabal,credit_card,40
+campo mourao,credit_card,39
+cosmopolis,credit_card,39
+erechim,credit_card,38
+araucaria,credit_card,38
+itapeva,credit_card,38
+apucarana,credit_card,38
+peruibe,credit_card,38
+ijui,credit_card,38
+videira,credit_card,37
+santarem,credit_card,37
+sao pedro da aldeia,credit_card,37
+artur nogueira,credit_card,37
+embu-guacu,credit_card,37
+pato branco,credit_card,37
+sao jose do rio pardo,credit_card,37
+ilhabela,credit_card,37
+vespasiano,credit_card,37
+campo limpo paulista,credit_card,37
+itaperuna,credit_card,37
+saquarema,credit_card,36
+barreiras,credit_card,36
+uruguaiana,credit_card,36
+macapa,credit_card,36
+curvelo,credit_card,36
+lajeado,credit_card,36
+vargem grande paulista,credit_card,35
+itapema,credit_card,35
+sabara,credit_card,35
+pirapora,credit_card,35
+patrocinio,credit_card,34
+passos,credit_card,34
+lencois paulista,credit_card,34
+boituva,credit_card,34
+alfenas,credit_card,34
+juazeiro,credit_card,34
+sapucaia do sul,credit_card,34
+guaira,credit_card,34
+cianorte,credit_card,34
+paulista,credit_card,34
+aracruz,credit_card,34
+pedro leopoldo,credit_card,33
+ponte nova,credit_card,33
+coronel fabriciano,credit_card,33
+tres coracoes,credit_card,33
+registro,credit_card,33
+louveira,credit_card,33
+itupeva,credit_card,33
+tres lagoas,credit_card,32
+paranavai,credit_card,32
+nova odessa,credit_card,32
+valparaiso de goias,credit_card,32
+porto seguro,credit_card,32
+sao sebastiao do paraiso,credit_card,32
+mossoro,credit_card,32
+boa vista,credit_card,32
+sinop,credit_card,32
+jatai,credit_card,32
+guaxupe,credit_card,32
+andradina,credit_card,31
+alagoinhas,credit_card,31
+campo largo,credit_card,31
+ouro branco,credit_card,31
+olimpia,credit_card,31
+concordia,credit_card,31
+bebedouro,credit_card,31
+sao mateus,credit_card,31
+itumbiara,credit_card,30
+tres rios,credit_card,30
+almirante tamandare,credit_card,30
+mongagua,credit_card,30
+cacador,credit_card,30
+japeri,credit_card,30
+varzea grande,credit_card,30
+esteio,credit_card,30
+maracanau,credit_card,30
+paracambi,credit_card,30
+capao da canoa,credit_card,30
+jequie,credit_card,30
+rio do sul,credit_card,29
+guanambi,credit_card,29
+extrema,credit_card,29
+penapolis,credit_card,29
+sao miguel do oeste,credit_card,29
+jales,credit_card,29
+umuarama,credit_card,29
+para de minas,credit_card,29
+itabirito,credit_card,29
+imbituba,credit_card,29
+bom despacho,credit_card,28
+monte alto,credit_card,28
+santo antonio de jesus,credit_card,28
+osorio,credit_card,28
+gaspar,credit_card,28
+imperatriz,credit_card,28
+paulo afonso,credit_card,28
+araguaina,credit_card,28
+camaragibe,credit_card,28
+santa fe do sul,credit_card,27
+tremembe,credit_card,27
+monte mor,credit_card,27
+sobral,credit_card,27
+sao lourenco,credit_card,27
+taquaritinga,credit_card,27
+mococa,credit_card,27
+santo angelo,credit_card,27
+telemaco borba,credit_card,27
+mirassol,credit_card,27
+navegantes,credit_card,27
+sao bento do sul,credit_card,27
+armacao dos buzios,credit_card,27
+santo antonio de padua,credit_card,27
+eunapolis,credit_card,26
+caldas novas,credit_card,26
+ibiuna,credit_card,26
+seropedica,credit_card,26
+campo bom,credit_card,26
+garanhuns,credit_card,26
+vassouras,credit_card,26
+mariana,credit_card,26
+marechal candido rondon,credit_card,26
+tiete,credit_card,26
+formiga,credit_card,26
+arapiraca,credit_card,25
+catalao,credit_card,25
+arapongas,credit_card,25
+cataguases,credit_card,25
+batatais,credit_card,25
+uniao da vitoria,credit_card,25
+caucaia,credit_card,25
+diamantina,credit_card,25
+adamantina,credit_card,25
+miguel pereira,credit_card,24
+capivari,credit_card,24
+montenegro,credit_card,24
+cambe,credit_card,24
+orlandia,credit_card,24
+santa rosa,credit_card,24
+santa isabel,credit_card,24
+rio bonito,credit_card,24
+capao bonito,credit_card,23
+corumba,credit_card,23
+promissao,credit_card,23
+cruz alta,credit_card,23
+alegrete,credit_card,23
+alem paraiba,credit_card,23
+santa rita do sapucai,credit_card,23
+piumhii,credit_card,23
+itapolis,credit_card,23
+juazeiro do norte,credit_card,23
+congonhas,credit_card,23
+teixeira de freitas,credit_card,23
+presidente venceslau,credit_card,23
+sao joaquim da barra,credit_card,23
+tangara da serra,credit_card,22
+pedreira,credit_card,22
+arraial do cabo,credit_card,22
+sapiranga,credit_card,22
+santa cruz do rio pardo,credit_card,22
+guaiba,credit_card,22
+luis eduardo magalhaes,credit_card,22
+carangola,credit_card,22
+trindade,credit_card,22
+itarare,credit_card,22
+cerquilho,credit_card,22
+xanxere,credit_card,22
+parauapebas,credit_card,22
+ituverava,credit_card,22
+rolandia,credit_card,22
+barra bonita,credit_card,22
+nanuque,credit_card,21
+camboriu,credit_card,21
+luziania,credit_card,21
+dois vizinhos,credit_card,21
+biguacu,credit_card,21
+dracena,credit_card,21
+santiago,credit_card,21
+brumadinho,credit_card,21
+lucas do rio verde,credit_card,21
+frutal,credit_card,20
+candeias,credit_card,20
+rio grande da serra,credit_card,20
+caete,credit_card,20
+sao fidelis,credit_card,20
+aparecida,credit_card,20
+gramado,credit_card,20
+sao manuel,credit_card,20
+tramandai,credit_card,20
+boa esperanca,credit_card,20
+arcos,credit_card,20
+canoinhas,credit_card,20
+cambui,credit_card,20
+venancio aires,credit_card,20
+tijucas,credit_card,20
+mineiros,credit_card,20
+indaial,credit_card,20
+porto ferreira,credit_card,20
+campos do jordao,credit_card,19
+dias d'avila,credit_card,19
+caceres,credit_card,19
+cachoeira do sul,credit_card,19
+coromandel,credit_card,19
+casimiro de abreu,credit_card,19
+matinhos,credit_card,19
+joacaba,credit_card,19
+farroupilha,credit_card,19
+primavera do leste,credit_card,19
+medianeira,credit_card,19
+formosa,credit_card,19
+viana,credit_card,19
+garca,credit_card,19
+fazenda rio grande,credit_card,19
+ilha solteira,credit_card,18
+januaria,credit_card,18
+cornelio procopio,credit_card,18
+aracati,credit_card,18
+campo belo,credit_card,18
+cravinhos,credit_card,18
+cabo de santo agostinho,credit_card,18
+curitibanos,credit_card,18
+aguas lindas de goias,credit_card,18
+timbo,credit_card,18
+simoes filho,credit_card,18
+cantagalo,credit_card,18
+salinas,credit_card,18
+cordeiro,credit_card,18
+santa barbara,credit_card,18
+taquara,credit_card,18
+barra do garcas,credit_card,17
+guapimirim,credit_card,17
+sarandi,credit_card,17
+paraiba do sul,credit_card,17
+paraguacu paulista,credit_card,17
+carlos barbosa,credit_card,17
+piracaia,credit_card,17
+vera cruz,credit_card,17
+tres pontas,credit_card,17
+machado,credit_card,17
+jacutinga,credit_card,17
+sao borja,credit_card,17
+iguaba grande,credit_card,17
+santa rita do passa quatro,credit_card,17
+visconde do rio branco,credit_card,17
+mairinque,credit_card,17
+ipero,credit_card,17
+bom jesus do itabapoana,credit_card,17
+santos dumont,credit_card,17
+nova venecia,credit_card,17
+jacobina,credit_card,17
+floriano,credit_card,17
+marau,credit_card,16
+vacaria,credit_card,16
+holambra,credit_card,16
+cafelandia,credit_card,16
+altamira,credit_card,16
+gurupi,credit_card,16
+palmital,credit_card,16
+oliveira,credit_card,16
+conchal,credit_card,16
+rancharia,credit_card,16
+mafra,credit_card,16
+cruz das almas,credit_card,16
+cachoeira paulista,credit_card,16
+jacarezinho,credit_card,16
+monte carmelo,credit_card,16
+porto feliz,credit_card,16
+braco do norte,credit_card,16
+monte azul paulista,credit_card,16
+castro,credit_card,16
+sorriso,credit_card,16
+pereira barreto,credit_card,16
+estancia velha,credit_card,16
+carazinho,credit_card,16
+socorro,credit_card,16
+parnaiba,credit_card,16
+ponta pora,credit_card,16
+pitangui,credit_card,16
+nova granada,credit_card,15
+bonito,credit_card,15
+senhor do bonfim,credit_card,15
+bonfim paulista,credit_card,15
+viradouro,credit_card,15
+piraju,credit_card,15
+santana do livramento,credit_card,15
+ararangua,credit_card,15
+ipora,credit_card,15
+icara,credit_card,15
+picos,credit_card,15
+pederneiras,credit_card,15
+miracema,credit_card,15
+ibiruba,credit_card,15
+cerqueira cesar,credit_card,15
+santo anastacio,credit_card,15
+jaguariaiva,credit_card,15
+posse,credit_card,15
+charqueadas,credit_card,15
+juquitiba,credit_card,15
+torres,credit_card,15
+sao gabriel,credit_card,15
+canela,credit_card,14
+espirito santo do pinhal,credit_card,14
+espera feliz,credit_card,14
+ipojuca,credit_card,14
+pirapora do bom jesus,credit_card,14
+campo novo do parecis,credit_card,14
+garopaba,credit_card,14
+salgueiro,credit_card,14
+crato,credit_card,14
+pitangueiras,credit_card,14
+sao francisco,credit_card,14
+redencao,credit_card,14
+claudio,credit_card,14
+irati,credit_card,14
+sao joao da barra,credit_card,14
+ibitinga,credit_card,14
+castelo,credit_card,14
+presidente epitacio,credit_card,14
+itapetinga,credit_card,14
+cachoeiras de macacu,credit_card,14
+uruacu,credit_card,14
+panambi,credit_card,14
+agudos,credit_card,14
+paragominas,credit_card,14
+palmeira das missoes,credit_card,14
+janauba,credit_card,14
+bom jesus dos perdoes,credit_card,14
+brumado,credit_card,14
+laranjeiras do sul,credit_card,14
+barao de cocais,credit_card,14
+alegre,credit_card,14
+ouro fino,credit_card,14
+mandaguari,credit_card,14
+bastos,credit_card,14
+barrinha,credit_card,14
+penha,credit_card,13
+conselheiro pena,credit_card,13
+miguelopolis,credit_card,13
+sarzedo,credit_card,13
+santa vitoria,credit_card,13
+leopoldina,credit_card,13
+iturama,credit_card,13
+iguatu,credit_card,13
+palmeira,credit_card,13
+anchieta,credit_card,13
+santo antonio de posse,credit_card,13
+piedade,credit_card,13
+santo antonio da patrulha,credit_card,13
+sao francisco de itabapoana,credit_card,13
+inhumas,credit_card,13
+maraba,credit_card,13
+itaocara,credit_card,13
+caxambu,credit_card,13
+belo jardim,credit_card,13
+natividade,credit_card,13
+cunha,credit_card,13
+cajati,credit_card,13
+pinhalzinho,credit_card,13
+aguas de lindoia,credit_card,13
+castanhal,credit_card,13
+vitoria de santo antao,credit_card,13
+patos,credit_card,13
+igarassu,credit_card,13
+morrinhos,credit_card,13
+sao luiz gonzaga,credit_card,12
+goianesia,credit_card,12
+goiana,credit_card,12
+iracemapolis,credit_card,12
+aperibe,credit_card,12
+pariquera-acu,credit_card,12
+jose bonifacio,credit_card,12
+sao jose do vale do rio preto,credit_card,12
+pompeia,credit_card,12
+bandeirantes,credit_card,12
+sao gabriel da palha,credit_card,12
+guacui,credit_card,12
+tambau,credit_card,12
+sao gotardo,credit_card,12
+campos novos,credit_card,12
+guanhaes,credit_card,12
+capanema,credit_card,12
+quatro barras,credit_card,12
+laguna,credit_card,12
+pojuca,credit_card,12
+jarinu,credit_card,12
+bombinhas,credit_card,12
+conceicao de macabu,credit_card,12
+santo antonio do monte,credit_card,12
+dois irmaos,credit_card,12
+rio negro,credit_card,12
+mirandopolis,credit_card,12
+itaporanga,credit_card,12
+correia pinto,credit_card,12
+americo brasiliense,credit_card,12
+agua boa,credit_card,12
+vargem grande do sul,credit_card,12
+fraiburgo,credit_card,12
+santa adelia,credit_card,12
+abaetetuba,credit_card,11
+quirinopolis,credit_card,11
+guararapes,credit_card,11
+cacoal,credit_card,11
+pinheiral,credit_card,11
+venda nova do imigrante,credit_card,11
+marataizes,credit_card,11
+pirajui,credit_card,11
+almenara,credit_card,11
+itapiranga,credit_card,11
+veranopolis,credit_card,11
+laranjal paulista,credit_card,11
+taquarituba,credit_card,11
+sao mateus do sul,credit_card,11
+eusebio,credit_card,11
+estrela,credit_card,11
+vilhena,credit_card,11
+bom jardim,credit_card,11
+eldorado do sul,credit_card,11
+bezerros,credit_card,11
+esmeraldas,credit_card,11
+igrejinha,credit_card,11
+itapecerica,credit_card,11
+monte siao,credit_card,11
+capelinha,credit_card,11
+imbe,credit_card,11
+cajazeiras,credit_card,11
+sao lourenco do sul,credit_card,11
+timon,credit_card,11
+serrinha,credit_card,11
+novo gama,credit_card,11
+cordeiropolis,credit_card,11
+quissama,credit_card,11
+petrolandia,credit_card,11
+marialva,credit_card,11
+santo antonio da platina,credit_card,11
+osvaldo cruz,credit_card,11
+pires do rio,credit_card,11
+itatiaia,credit_card,11
+piuma,credit_card,11
+mata de sao joao,credit_card,11
+santana do paraiso,credit_card,11
+irece,credit_card,11
+manhumirim,credit_card,11
+guapore,credit_card,11
+sao sebastiao do cai,credit_card,11
+novo horizonte,credit_card,11
+sao lourenco da serra,credit_card,10
+aracariguama,credit_card,10
+porto uniao,credit_card,10
+maravilha,credit_card,10
+santa cruz do capibaribe,credit_card,10
+andradas,credit_card,10
+junqueiropolis,credit_card,10
+juina,credit_card,10
+sao lourenco da mata,credit_card,10
+antonina,credit_card,10
+salto de pirapora,credit_card,10
+carmo,credit_card,10
+parati,credit_card,10
+tres de maio,credit_card,10
+santa helena,credit_card,10
+monte aprazivel,credit_card,10
+rio negrinho,credit_card,10
+chavantes,credit_card,10
+loanda,credit_card,10
+ariquemes,credit_card,10
+assis chateaubriand,credit_card,10
+teutonia,credit_card,10
+raposos,credit_card,10
+sao goncalo do amarante,credit_card,10
+nossa senhora do socorro,credit_card,10
+marituba,credit_card,10
+lagoa vermelha,credit_card,10
+sao francisco do sul,credit_card,10
+castilho,credit_card,10
+balsas,credit_card,10
+ibipora,credit_card,10
+bambui,credit_card,10
+afonso claudio,credit_card,10
+astolfo dutra,credit_card,10
+limoeiro do norte,credit_card,10
+sombrio,credit_card,10
+jequitinhonha,credit_card,10
+brejo santo,credit_card,10
+bocaiuva,credit_card,10
+candido mota,credit_card,10
+pirai,credit_card,10
+planalto,credit_card,10
+taiobeiras,credit_card,10
+piraquara,credit_card,10
+paty do alferes,credit_card,10
+sao pedro,credit_card,10
+itajobi,credit_card,10
+jardinopolis,credit_card,10
+buritis,credit_card,10
+caxias,credit_card,9
+auriflama,credit_card,9
+camaqua,credit_card,9
+crateus,credit_card,9
+varzea da palma,credit_card,9
+cangucu,credit_card,9
+flores da cunha,credit_card,9
+nova era,credit_card,9
+santa vitoria do palmar,credit_card,9
+santana,credit_card,9
+pompeu,credit_card,9
+feliz,credit_card,9
+faxinal,credit_card,9
+ibate,credit_card,9
+mimoso do sul,credit_card,9
+sao jose de ribamar,credit_card,9
+papucaia,credit_card,9
+minacu,credit_card,9
+teodoro sampaio,credit_card,9
+aluminio,credit_card,9
+palmeira dos indios,credit_card,9
+alvinopolis,credit_card,9
+guaramirim,credit_card,9
+girua,credit_card,9
+campo verde,credit_card,9
+joao pinheiro,credit_card,9
+triunfo,credit_card,9
+conchas,credit_card,9
+sao simao,credit_card,9
+tupaciguara,credit_card,9
+raul soares,credit_card,9
+itabaiana,credit_card,9
+guara,credit_card,9
+guarabira,credit_card,9
+andira,credit_card,9
+pirapozinho,credit_card,9
+nova prata,credit_card,9
+corinto,credit_card,9
+quixada,credit_card,9
+arroio do meio,credit_card,9
+nova xavantina,credit_card,9
+arroio dos ratos,credit_card,9
+guararema,credit_card,9
+coronel vivida,credit_card,9
+martinopolis,credit_card,9
+guariba,credit_card,9
+santo amaro da imperatriz,credit_card,9
+cesario lange,credit_card,9
+balneario picarras,credit_card,9
+santa rosa de viterbo,credit_card,9
+lagarto,credit_card,9
+barra de sao joao,credit_card,9
+paraty,credit_card,9
+taua,credit_card,9
+salesopolis,credit_card,9
+senador canedo,credit_card,9
+itamaraju,credit_card,9
+sao miguel do iguacu,credit_card,9
+santa ines,credit_card,9
+engenheiro coelho,credit_card,9
+igarape,credit_card,9
+ji-parana,credit_card,9
+capinzal,credit_card,9
+descalvado,credit_card,9
+pinhao,credit_card,9
+embu,credit_card,9
+eloi mendes,credit_card,9
+itanhandu,credit_card,9
+tapiratiba,credit_card,9
+porangatu,credit_card,9
+carandai,credit_card,9
+duartina,credit_card,9
+barroso,credit_card,9
+italva,credit_card,9
+camamu,credit_card,9
+aimores,credit_card,9
+ibirama,credit_card,9
+paraisopolis,credit_card,9
+santa maria da vitoria,credit_card,9
+casa branca,credit_card,9
+santa maria de jetiba,credit_card,9
+serra negra,credit_card,9
+rosario do sul,credit_card,9
+mangueirinha,credit_card,8
+frederico westphalen,credit_card,8
+piratininga,credit_card,8
+siqueira campos,credit_card,8
+cajuru,credit_card,8
+santa rita,credit_card,8
+mambore,credit_card,8
+maracaju,credit_card,8
+simonesia,credit_card,8
+russas,credit_card,8
+caetite,credit_card,8
+mangaratiba,credit_card,8
+virginopolis,credit_card,8
+ecoporanga,credit_card,8
+mirassol d'oeste,credit_card,8
+tres marias,credit_card,8
+goitacazes,credit_card,8
+goioere,credit_card,8
+aracuai,credit_card,8
+aracoiaba da serra,credit_card,8
+madre de deus,credit_card,8
+treze tilias,credit_card,8
+morada nova,credit_card,8
+abaete,credit_card,8
+domingos martins,credit_card,8
+dom pedrito,credit_card,8
+garibaldi,credit_card,8
+niquelandia,credit_card,8
+nova andradina,credit_card,8
+dois corregos,credit_card,8
+sidrolandia,credit_card,8
+rio das pedras,credit_card,8
+santo amaro,credit_card,8
+matozinhos,credit_card,8
+escada,credit_card,8
+alto do rodrigues,credit_card,8
+montanha,credit_card,8
+aguai,credit_card,8
+cambara,credit_card,8
+dores de campos,credit_card,8
+matias barbosa,credit_card,8
+floresta,credit_card,8
+caico,credit_card,8
+valente,credit_card,8
+aguas da prata,credit_card,8
+mutum,credit_card,8
+alta floresta,credit_card,8
+ouroeste,credit_card,8
+abreu e lima,credit_card,8
+pinheiros,credit_card,8
+monte santo de minas,credit_card,8
+mendes,credit_card,8
+itapipoca,credit_card,8
+brotas,credit_card,8
+santa gertrudes,credit_card,8
+brodowski,credit_card,8
+itambe,credit_card,8
+xangri-la,credit_card,8
+forquilhinha,credit_card,8
+ampere,credit_card,8
+coroata,credit_card,8
+fartura,credit_card,8
+rio paranaiba,credit_card,8
+serrana,credit_card,8
+joao neiva,credit_card,8
+ipameri,credit_card,8
+lapa,credit_card,8
+sao miguel arcanjo,credit_card,8
+bom jesus,credit_card,8
+cicero dantas,credit_card,8
+carmo do cajuru,credit_card,8
+bariri,credit_card,8
+paranapanema,credit_card,8
+paranaiba,credit_card,8
+tanabi,credit_card,8
+palestina,credit_card,8
+canarana,credit_card,8
+potirendaba,credit_card,8
+catu,credit_card,8
+bacabal,credit_card,8
+ibaiti,credit_card,8
+biritiba-mirim,credit_card,8
+bom jesus da lapa,credit_card,8
+presidente dutra,credit_card,8
+paraguacu,credit_card,8
+barra de sao francisco,credit_card,8
+pau dos ferros,credit_card,8
+passa quatro,credit_card,8
+guaratuba,credit_card,8
+araripina,credit_card,8
+sao joao nepomuceno,credit_card,8
+taquari,credit_card,8
+iguape,credit_card,8
+pontes e lacerda,credit_card,8
+sao lourenco do oeste,credit_card,8
+boa esperanca do sul,credit_card,8
+parobe,credit_card,8
+quata,credit_card,8
+palotina,credit_card,8
+ibatiba,credit_card,7
+pimenta bueno,credit_card,7
+ipaba,credit_card,7
+cruzeiro do oeste,credit_card,7
+costa rica,credit_card,7
+mateus leme,credit_card,7
+valparaiso,credit_card,7
+faxinal dos guedes,credit_card,7
+itaguacu,credit_card,7
+lajedo,credit_card,7
+sao jose da lapa,credit_card,7
+lambari,credit_card,7
+pomerode,credit_card,7
+sao joaquim,credit_card,7
+coxim,credit_card,7
+nova europa,credit_card,7
+fervedouro,credit_card,7
+hidrolandia,credit_card,7
+araquari,credit_card,7
+buritama,credit_card,7
+cedral,credit_card,7
+regente feijo,credit_card,7
+buritizeiro,credit_card,7
+tapejara,credit_card,7
+santa helena de goias,credit_card,7
+acarau,credit_card,7
+sao marcos,credit_card,7
+barra velha,credit_card,7
+morro agudo,credit_card,7
+caetanopolis,credit_card,7
+portao,credit_card,7
+porto real,credit_card,7
+mozarlandia,credit_card,7
+cacu,credit_card,7
+dourado,credit_card,7
+caconde,credit_card,7
+porciuncula,credit_card,7
+porecatu,credit_card,7
+divino,credit_card,7
+taruma,credit_card,7
+vila muriqui,credit_card,7
+santa maria madalena,credit_card,7
+taguai,credit_card,7
+paraibuna,credit_card,7
+pradopolis,credit_card,7
+taio,credit_card,7
+buri,credit_card,7
+ibira,credit_card,7
+casa nova,credit_card,7
+carmo do paranaiba,credit_card,7
+lagoa da prata,credit_card,7
+paraiso do tocantins,credit_card,7
+carpina,credit_card,7
+sacramento,credit_card,7
+teixeiras,credit_card,7
+ico,credit_card,7
+piquete,credit_card,7
+sao bento do sapucai,credit_card,7
+nova ponte,credit_card,7
+trajano de moraes,credit_card,7
+sapezal,credit_card,7
+guaranesia,credit_card,7
+sao joao,credit_card,7
+campina grande do sul,credit_card,7
+campina verde,credit_card,7
+nucleo residencial pilar,credit_card,7
+arceburgo,credit_card,7
+rio brilhante,credit_card,7
+arinos,credit_card,7
+maracai,credit_card,7
+ribeira do pombal,credit_card,7
+mantena,credit_card,7
+santo augusto,credit_card,7
+sao goncalo do sapucai,credit_card,7
+ituporanga,credit_card,7
+conceicao do coite,credit_card,7
+penedo,credit_card,7
+lucelia,credit_card,7
+turmalina,credit_card,7
+pedro de toledo,credit_card,7
+botelhos,credit_card,7
+ribeirao bonito,credit_card,7
+conceicao do mato dentro,credit_card,7
+orleans,credit_card,7
+areal,credit_card,7
+tucurui,credit_card,7
+guaicara,credit_card,7
+borborema,credit_card,7
+ipira,credit_card,7
+tucano,credit_card,7
+camocim,credit_card,7
+pirapetinga,credit_card,7
+arroio do sal,credit_card,7
+canaa dos carajas,credit_card,7
+piedade de caratinga,credit_card,7
+colider,credit_card,7
+tabapua,credit_card,7
+colina,credit_card,7
+soledade,credit_card,7
+lindoia,credit_card,7
+campo maior,credit_card,7
+pilar do sul,credit_card,7
+sao felix do xingu,credit_card,7
+charqueada,credit_card,7
+arraial d'ajuda,credit_card,7
+ipiau,credit_card,7
+itaberaba,credit_card,7
+cananeia,credit_card,7
+queimadas,credit_card,7
+comodoro,credit_card,7
+ipaussu,credit_card,7
+entre rios,credit_card,6
+macaubas,credit_card,6
+entre rios de minas,credit_card,6
+irapuru,credit_card,6
+juquia,credit_card,6
+pacajus,credit_card,6
+macatuba,credit_card,6
+itamarandiba,credit_card,6
+perdoes,credit_card,6
+imbituva,credit_card,6
+porto belo,credit_card,6
+pacaembu,credit_card,6
+ouricuri,credit_card,6
+jacare,credit_card,6
+ervalia,credit_card,6
+pacaja,credit_card,6
+resplendor,credit_card,6
+passo de torres,credit_card,6
+itapaje,credit_card,6
+goias,credit_card,6
+ivaipora,credit_card,6
+mundo novo,credit_card,6
+jeremoabo,credit_card,6
+paraopeba,credit_card,6
+getulio vargas,credit_card,6
+mucuri,credit_card,6
+general salgado,credit_card,6
+piripiri,credit_card,6
+fronteira,credit_card,6
+neropolis,credit_card,6
+firminopolis,credit_card,6
+pesqueira,credit_card,6
+itapoa,credit_card,6
+primavera,credit_card,6
+papanduva,credit_card,6
+primeiro de maio,credit_card,6
+rodeio,credit_card,6
+itobi,credit_card,6
+novo cruzeiro,credit_card,6
+rio novo do sul,credit_card,6
+nhandeara,credit_card,6
+prudentopolis,credit_card,6
+nova londrina,credit_card,6
+marmeleiro,credit_card,6
+nova russas,credit_card,6
+pirangi,credit_card,6
+querencia,credit_card,6
+poco fundo,credit_card,6
+jaragua,credit_card,6
+mirai,credit_card,6
+jaru,credit_card,6
+rolante,credit_card,6
+ibia,credit_card,6
+esperanca,credit_card,6
+paicandu,credit_card,6
+pontal,credit_card,6
+jaguare,credit_card,6
+ruy barbosa,credit_card,6
+rubiataba,credit_card,6
+estancia,credit_card,6
+mata verde,credit_card,6
+palmares,credit_card,6
+estiva gerbi,credit_card,6
+prata,credit_card,6
+presidente bernardes,credit_card,6
+mar de espanha,credit_card,6
+missal,credit_card,6
+planaltina,credit_card,6
+presidente getulio,credit_card,6
+itai,credit_card,6
+herval d'oeste,credit_card,6
+mostardas,credit_card,6
+barra do corda,credit_card,6
+torrinha,credit_card,6
+barreiros,credit_card,6
+bananal,credit_card,6
+baixo guandu,credit_card,6
+baependi,credit_card,6
+bady bassitt,credit_card,6
+terra rica,credit_card,6
+astorga,credit_card,6
+assai,credit_card,6
+coribe,credit_card,6
+tocantinopolis,credit_card,6
+areado,credit_card,6
+arapoti,credit_card,6
+alto paraiso de goias,credit_card,6
+tres passos,credit_card,6
+apiuna,credit_card,6
+apiaca,credit_card,6
+ubaira,credit_card,6
+cristalina,credit_card,6
+anicuns,credit_card,6
+cruz,credit_card,6
+santa teresa,credit_card,6
+urupes,credit_card,6
+urussanga,credit_card,6
+currais novos,credit_card,6
+comendador levy gasparian,credit_card,6
+sao domingos,credit_card,6
+colorado,credit_card,6
+taguatinga,credit_card,6
+capinopolis,credit_card,6
+carmo do rio claro,credit_card,6
+campo formoso,credit_card,6
+sao jose do norte,credit_card,6
+sapucaia,credit_card,6
+cambuci,credit_card,6
+camanducaia,credit_card,6
+camacan,credit_card,6
+california da barra,credit_card,6
+catende,credit_card,6
+catole do rocha,credit_card,6
+sao joaquim de bicas,credit_card,6
+ceres,credit_card,6
+santa branca,credit_card,6
+cabedelo,credit_card,6
+serra talhada,credit_card,6
+silvania,credit_card,6
+chapadao do sul,credit_card,6
+simao dias,credit_card,6
+braganca,credit_card,6
+sumidouro,credit_card,6
+sao gabriel do oeste,credit_card,6
+bilac,credit_card,6
+alvares machado,credit_card,6
+carai,credit_card,6
+acopiara,credit_card,6
+santa juliana,credit_card,6
+alcinopolis,credit_card,6
+acreuna,credit_card,6
+afogados da ingazeira,credit_card,6
+abelardo luz,credit_card,6
+xinguara,credit_card,6
+acailandia,credit_card,6
+presidente olegario,credit_card,5
+catanduvas,credit_card,5
+garuva,credit_card,5
+barcarena,credit_card,5
+itaipulandia,credit_card,5
+general carneiro,credit_card,5
+santa cruz das palmeiras,credit_card,5
+bananeiras,credit_card,5
+piracanjuba,credit_card,5
+conceicao do araguaia,credit_card,5
+sao bento do una,credit_card,5
+taquaritinga do norte,credit_card,5
+barra do ribeiro,credit_card,5
+caldas,credit_card,5
+joviania,credit_card,5
+nazare paulista,credit_card,5
+riachao do jacuipe,credit_card,5
+iacanga,credit_card,5
+parapua,credit_card,5
+itaiopolis,credit_card,5
+joao lisboa,credit_card,5
+nepomuceno,credit_card,5
+vila valerio,credit_card,5
+laurentino,credit_card,5
+rio branco do sul,credit_card,5
+sao jose do cedro,credit_card,5
+santo cristo,credit_card,5
+santo estevao,credit_card,5
+frei inocencio,credit_card,5
+cambuquira,credit_card,5
+itacare,credit_card,5
+divinolandia,credit_card,5
+encruzilhada do sul,credit_card,5
+confresa,credit_card,5
+teotonio vilela,credit_card,5
+encantado,credit_card,5
+piranguinho,credit_card,5
+sao jose do calcado,credit_card,5
+santa cruz cabralia,credit_card,5
+pirai do sul,credit_card,5
+paraipaba,credit_card,5
+cajobi,credit_card,5
+horizonte,credit_card,5
+horizontina,credit_card,5
+sao joao dos patos,credit_card,5
+butia,credit_card,5
+jaguaribe,credit_card,5
+rafard,credit_card,5
+jaguarao,credit_card,5
+sao jeronimo,credit_card,5
+itapui,credit_card,5
+cidade ocidental,credit_card,5
+sousa,credit_card,5
+bom principio,credit_card,5
+itapuranga,credit_card,5
+perdizes,credit_card,5
+ivoti,credit_card,5
+sobradinho,credit_card,5
+itaqui,credit_card,5
+guarani,credit_card,5
+brasilia de minas,credit_card,5
+brazopolis,credit_card,5
+muzambinho,credit_card,5
+chapadao do ceu,credit_card,5
+bom conselho,credit_card,5
+surubim,credit_card,5
+goianira,credit_card,5
+cocal,credit_card,5
+tiangua,credit_card,5
+pinheiro machado,credit_card,5
+goiatuba,credit_card,5
+sao domingos do norte,credit_card,5
+itamonte,credit_card,5
+sao jose da barra,credit_card,5
+jesuania,credit_card,5
+itaobim,credit_card,5
+benedito novo,credit_card,5
+grajau,credit_card,5
+cacapava do sul,credit_card,5
+granja,credit_card,5
+paulo frontin,credit_card,5
+gravata,credit_card,5
+codo,credit_card,5
+quedas do iguacu,credit_card,5
+pecanha,credit_card,5
+sao joao evangelista,credit_card,5
+bocaina,credit_card,5
+lauro muller,credit_card,5
+morro da fumaca,credit_card,5
+palmitinho,credit_card,5
+uruara,credit_card,5
+andorinha,credit_card,5
+carlopolis,credit_card,5
+angatuba,credit_card,5
+novo progresso,credit_card,5
+una,credit_card,5
+igarapava,credit_card,5
+crixas,credit_card,5
+feira nova,credit_card,5
+cristina,credit_card,5
+ubirata,credit_card,5
+porto nacional,credit_card,5
+cassia,credit_card,5
+carmo da mata,credit_card,5
+santa albertina,credit_card,5
+sao romao,credit_card,5
+tupi paulista,credit_card,5
+mallet,credit_card,5
+aparecida do taboado,credit_card,5
+rio pomba,credit_card,5
+urbano santos,credit_card,5
+inhambupe,credit_card,5
+diamantino,credit_card,5
+sales,credit_card,5
+espigao do oeste,credit_card,5
+sabinopolis,credit_card,5
+dores do indaia,credit_card,5
+esplanada,credit_card,5
+espumoso,credit_card,5
+capim grosso,credit_card,5
+custodia,credit_card,5
+santa quiteria,credit_card,5
+sao miguel do guama,credit_card,5
+pontal do parana,credit_card,5
+porteirinha,credit_card,5
+amambai,credit_card,5
+nova santa rita,credit_card,5
+rondon do para,credit_card,5
+nova esperanca,credit_card,5
+caninde,credit_card,5
+marilandia,credit_card,5
+nova trento,credit_card,5
+rolim de moura,credit_card,5
+malacacheta,credit_card,5
+ipanema,credit_card,5
+canavieiras,credit_card,5
+engenheiro paulo de frontin,credit_card,5
+alfredo chaves,credit_card,5
+toritama,credit_card,5
+araujos,credit_card,5
+piratuba,credit_card,5
+tombos,credit_card,5
+cosmorama,credit_card,5
+dianopolis,credit_card,5
+rio largo,credit_card,5
+santa cruz,credit_card,5
+campinorte,credit_card,5
+campo ere,credit_card,5
+tres cachoeiras,credit_card,5
+tres coroas,credit_card,5
+itabera,credit_card,5
+paco do lumiar,credit_card,5
+aracoiaba,credit_card,5
+ortigueira,credit_card,5
+casca,credit_card,5
+timburi,credit_card,5
+itaberai,credit_card,5
+rio pardo,credit_card,5
+sertania,credit_card,4
+cameta,credit_card,4
+sao tomas de aquino,credit_card,4
+morro do chapeu,credit_card,4
+campanha,credit_card,4
+capitolio,credit_card,4
+itariri,credit_card,4
+buenopolis,credit_card,4
+indiara,credit_card,4
+sapucai-mirim,credit_card,4
+indianopolis,credit_card,4
+cansancao,credit_card,4
+buriticupu,credit_card,4
+campo alegre,credit_card,4
+inaja,credit_card,4
+buerarema,credit_card,4
+brejo da madre de deus,credit_card,4
+munhoz,credit_card,4
+sao miguel,credit_card,4
+itapura,credit_card,4
+itabela,credit_card,4
+sao sepe,credit_card,4
+sao tiago,credit_card,4
+ipu,credit_card,4
+seabra,credit_card,4
+ipiabas,credit_card,4
+moreno,credit_card,4
+seara,credit_card,4
+itambacuri,credit_card,4
+sao roque do canaa,credit_card,4
+senges,credit_card,4
+campos sales,credit_card,4
+campos de julio,credit_card,4
+poco verde,credit_card,4
+itaitinga,credit_card,4
+candido rodrigues,credit_card,4
+serafina correa,credit_card,4
+itanhomi,credit_card,4
+xaxim,credit_card,4
+cachoeira de minas,credit_card,4
+itapagipe,credit_card,4
+pinhalao,credit_card,4
+cachoeira,credit_card,4
+itapejara d'oeste,credit_card,4
+itaipava,credit_card,4
+abre campo,credit_card,4
+pombal,credit_card,4
+itapemirim,credit_card,4
+cabreuva,credit_card,4
+irapua,credit_card,4
+schroeder,credit_card,4
+mutuipe,credit_card,4
+sete barras,credit_card,4
+alto boa vista,credit_card,4
+acu,credit_card,4
+livramento de nossa senhora,credit_card,4
+vera cruz do oeste,credit_card,4
+ourilandia do norte,credit_card,4
+tres barras,credit_card,4
+arapora,credit_card,4
+macau,credit_card,4
+milagres,credit_card,4
+arcoverde,credit_card,4
+arealva,credit_card,4
+luis antonio,credit_card,4
+palmares do sul,credit_card,4
+ariranha,credit_card,4
+tocantins,credit_card,4
+aquidauana,credit_card,4
+nova aurora,credit_card,4
+palmeira d'oeste,credit_card,4
+limoeiro,credit_card,4
+ascurra,credit_card,4
+timbauba,credit_card,4
+vila dos cabanos,credit_card,4
+panorama,credit_card,4
+terra de areia,credit_card,4
+avanhandava,credit_card,4
+papagaios,credit_card,4
+avelar,credit_card,4
+arace,credit_card,4
+trombudo central,credit_card,4
+lagoa formosa,credit_card,4
+medina,credit_card,4
+matipo,credit_card,4
+nova olinda,credit_card,4
+varjota,credit_card,4
+nova petropolis,credit_card,4
+valenca do piaui,credit_card,4
+martins soares,credit_card,4
+nova prata do iguacu,credit_card,4
+alto araguaia,credit_card,4
+utinga,credit_card,4
+mario campos,credit_card,4
+nova santa rosa,credit_card,4
+nova veneza,credit_card,4
+merces,credit_card,4
+uniao de minas,credit_card,4
+maragogi,credit_card,4
+maracas,credit_card,4
+maracacume,credit_card,4
+ocaucu,credit_card,4
+oeiras,credit_card,4
+vazante,credit_card,4
+mendes pimentel,credit_card,4
+mendonca,credit_card,4
+turvo,credit_card,4
+mandaguacu,credit_card,4
+lagoa grande,credit_card,4
+lagoa dourada,credit_card,4
+adolfo,credit_card,4
+volta grande,credit_card,4
+jauru,credit_card,4
+navirai,credit_card,4
+bernardino de campos,credit_card,4
+bicas,credit_card,4
+monte alegre do sul,credit_card,4
+jari,credit_card,4
+boa vista da aparecida,credit_card,4
+tabira,credit_card,4
+japura,credit_card,4
+japuiba,credit_card,4
+tabatinga,credit_card,4
+pedra azul,credit_card,4
+tangua,credit_card,4
+pedra preta,credit_card,4
+jandaia do sul,credit_card,4
+jaguaruana,credit_card,4
+bom jardim de minas,credit_card,4
+bom jesus do norte,credit_card,4
+jacupiranga,credit_card,4
+bom jesus do tocantins,credit_card,4
+bom sucesso,credit_card,4
+perdigao,credit_card,4
+monte azul,credit_card,4
+brauna,credit_card,4
+alto jequitiba,credit_card,4
+bela vista de goias,credit_card,4
+balneario barra do sul,credit_card,4
+jucurutu,credit_card,4
+balneario pinhal,credit_card,4
+balsamo,credit_card,4
+paraiso,credit_card,4
+ladario,credit_card,4
+barbalha,credit_card,4
+juruaia,credit_card,4
+barra da estiva,credit_card,4
+tarumirim,credit_card,4
+tarabai,credit_card,4
+barra do bugres,credit_card,4
+sao luis de montes belos,credit_card,4
+parelhas,credit_card,4
+jesuitas,credit_card,4
+barro,credit_card,4
+jordania,credit_card,4
+joaquim nabuco,credit_card,4
+tapes,credit_card,4
+bataguassu,credit_card,4
+montalvania,credit_card,4
+joanopolis,credit_card,4
+bayeux,credit_card,4
+agua doce do norte,credit_card,4
+nazare,credit_card,4
+bela cruz,credit_card,4
+belo oriente,credit_card,4
+cabralia paulista,credit_card,4
+rio novo,credit_card,4
+sao goncalo do rio abaixo,credit_card,4
+sao joao batista,credit_card,4
+guaraciaba do norte,credit_card,4
+rio acima,credit_card,4
+castelandia,credit_card,4
+cuite,credit_card,4
+cunha pora,credit_card,4
+fundao,credit_card,4
+ibicarai,credit_card,4
+cassilandia,credit_card,4
+sao benedito,credit_card,4
+prado,credit_card,4
+guaracai,credit_card,4
+santa rita de caldas,credit_card,4
+sao jose do egito,credit_card,4
+cidade gaucha,credit_card,4
+gandu,credit_card,4
+santa mariana,credit_card,4
+ibirarema,credit_card,4
+condado,credit_card,4
+guapo,credit_card,4
+conceicao dos ouros,credit_card,4
+espinosa,credit_card,4
+delmiro gouveia,credit_card,4
+guapiacu,credit_card,4
+conceicao do rio verde,credit_card,4
+santa lucia,credit_card,4
+ribeirao claro,credit_card,4
+congonhal,credit_card,4
+rio azul,credit_card,4
+catigua,credit_card,4
+rio das flores,credit_card,4
+santanesia,credit_card,4
+corupa,credit_card,4
+sao joao do paraiso,credit_card,4
+corrente,credit_card,4
+ceu azul,credit_card,4
+cerro largo,credit_card,4
+rio manso,credit_card,4
+santana do jacare,credit_card,4
+quarai,credit_card,4
+formoso do araguaia,credit_card,4
+forquilha,credit_card,4
+santo antonio do descoberto,credit_card,4
+rio preto,credit_card,4
+rio bananal,credit_card,4
+cristais paulista,credit_card,4
+chapada gaucha,credit_card,4
+rio casca,credit_card,4
+guaranta,credit_card,4
+humaita,credit_card,4
+santana da vargem,credit_card,4
+fernando prestes,credit_card,4
+santo antonio do jacinto,credit_card,4
+santo antonio do jardim,credit_card,4
+catuipe,credit_card,4
+conservatoria,credit_card,4
+iacu,credit_card,4
+ibotirama,credit_card,4
+potiragua,credit_card,4
+guarei,credit_card,4
+reboucas,credit_card,4
+carmopolis de minas,credit_card,4
+santa fe,credit_card,4
+sao cristovao,credit_card,4
+colonia vitoria,credit_card,4
+dumont,credit_card,4
+icem,credit_card,4
+glicerio,credit_card,4
+sao francisco de paula,credit_card,4
+gravatal,credit_card,4
+sanclerlandia,credit_card,4
+colombia,credit_card,4
+sananduva,credit_card,4
+saltinho,credit_card,4
+realeza,credit_card,4
+coaraci,credit_card,4
+clementina,credit_card,4
+dom feliciano,credit_card,4
+santa cecilia,credit_card,4
+sao bento,credit_card,4
+conceicao do castelo,credit_card,4
+santa cruz de minas,credit_card,4
+sao domingos do prata,credit_card,4
+elias fausto,credit_card,4
+santa isabel do para,credit_card,4
+carmo da cachoeira,credit_card,4
+dom silverio,credit_card,4
+icapui,credit_card,4
+dom eliseu,credit_card,4
+baturite,credit_card,3
+augusto correa,credit_card,3
+palmitos,credit_card,3
+coracao de jesus,credit_card,3
+goianesia do para,credit_card,3
+tibagi,credit_card,3
+lavras do sul,credit_card,3
+conceicao da aparecida,credit_card,3
+arrozal,credit_card,3
+coremas,credit_card,3
+batalha,credit_card,3
+gouveia,credit_card,3
+santo antonio do amparo,credit_card,3
+tiradentes,credit_card,3
+renascenca,credit_card,3
+luminarias,credit_card,3
+bela vista do paraiso,credit_card,3
+rio do oeste,credit_card,3
+luiziania,credit_card,3
+pains,credit_card,3
+toropi,credit_card,3
+rio do campo,credit_card,3
+palma,credit_card,3
+reriutaba,credit_card,3
+palma sola,credit_card,3
+tanhacu,credit_card,3
+coronel joao sa,credit_card,3
+areiopolis,credit_card,3
+formosa do rio preto,credit_card,3
+lontras,credit_card,3
+aripuana,credit_card,3
+lobato,credit_card,3
+formoso,credit_card,3
+lavinia,credit_card,3
+beberibe,credit_card,3
+terra roxa,credit_card,3
+capivari de baixo,credit_card,3
+barros cassal,credit_card,3
+lago da pedra,credit_card,3
+riacho dos machados,credit_card,3
+corumbaiba,credit_card,3
+tenente portela,credit_card,3
+barra do tarrachil,credit_card,3
+conceicao das alagoas,credit_card,3
+concordia do para,credit_card,3
+rianapolis,credit_card,3
+paraiso do norte,credit_card,3
+conceicao do tocantins,credit_card,3
+bandeira,credit_card,3
+balneario rincao,credit_card,3
+ribeira,credit_card,3
+barra do choca,credit_card,3
+garrafao do norte,credit_card,3
+paramirim,credit_card,3
+juti,credit_card,3
+paranaita,credit_card,3
+barbosa ferraz,credit_card,3
+ribeirao,credit_card,3
+conceicao do para,credit_card,3
+parai,credit_card,3
+parauna,credit_card,3
+joao ramalho,credit_card,3
+riacho de santana,credit_card,3
+aurora,credit_card,3
+pantano grande,credit_card,3
+goianapolis,credit_card,3
+joaquim tavora,credit_card,3
+barreirinhas,credit_card,3
+lajinha,credit_card,3
+terra boa,credit_card,3
+azurita,credit_card,3
+fronteiras,credit_card,3
+barras,credit_card,3
+gameleira,credit_card,3
+lagoinha,credit_card,3
+rinopolis,credit_card,3
+juatuba,credit_card,3
+barracao,credit_card,3
+teofilandia,credit_card,3
+condor,credit_card,3
+barra do turvo,credit_card,3
+balneario arroio do silva,credit_card,3
+paracuru,credit_card,3
+conceicao da barra,credit_card,3
+sao luis do paraitinga,credit_card,3
+pacatuba,credit_card,3
+florida paulista,credit_card,3
+alcobaca,credit_card,3
+nova alvorada do sul,credit_card,3
+dionisio cerqueira,credit_card,3
+miracatu,credit_card,3
+mineiros do tiete,credit_card,3
+minas novas,credit_card,3
+alfredo vasconcelos,credit_card,3
+entre-ijuis,credit_card,3
+vera,credit_card,3
+miguel calmon,credit_card,3
+nova cruz,credit_card,3
+salgado filho,credit_card,3
+diamante do norte,credit_card,3
+ventania,credit_card,3
+medeiros neto,credit_card,3
+maurilandia,credit_card,3
+varre-sai,credit_card,3
+descoberto,credit_card,3
+matupa,credit_card,3
+deputado irapuan pinheiro,credit_card,3
+nova hartz,credit_card,3
+vargem bonita,credit_card,3
+santa maria de itabira,credit_card,3
+alto parnaiba,credit_card,3
+alto rio doce,credit_card,3
+vargem alta,credit_card,3
+nova mutum,credit_card,3
+alto santo,credit_card,3
+valentim gentil,credit_card,3
+saloa,credit_card,3
+mirante do paranapanema,credit_card,3
+vigia,credit_card,3
+monte carlo,credit_card,3
+ze doca,credit_card,3
+morungaba,credit_card,3
+morro reuter,credit_card,3
+abatia,credit_card,3
+sanharo,credit_card,3
+sangao,credit_card,3
+santa cruz da conceicao,credit_card,3
+morretes,credit_card,3
+muqui,credit_card,3
+durande,credit_card,3
+monte verde,credit_card,3
+edeia,credit_card,3
+eldorado,credit_card,3
+nao-me-toque,credit_card,3
+aiuruoca,credit_card,3
+monte belo,credit_card,3
+eliseu martins,credit_card,3
+salto do jacui,credit_card,3
+vitorino freire,credit_card,3
+agua branca,credit_card,3
+salto do ceu,credit_card,3
+monsenhor tabosa,credit_card,3
+nazario,credit_card,3
+santa fe de goias,credit_card,3
+visconde de maua,credit_card,3
+neves paulista,credit_card,3
+moju,credit_card,3
+aguas belas,credit_card,3
+nova olinda do maranhao,credit_card,3
+roseira,credit_card,3
+santa rita d'oeste,credit_card,3
+jequia da praia,credit_card,3
+orizona,credit_card,3
+tupancireta,credit_card,3
+mamanguape,credit_card,3
+santana do acarau,credit_card,3
+major vieira,credit_card,3
+figueira,credit_card,3
+rio piracicaba,credit_card,3
+rio pardo de minas,credit_card,3
+maioba,credit_card,3
+tucuma,credit_card,3
+santana do araguaia,credit_card,3
+crisopolis,credit_card,3
+madre de deus de minas,credit_card,3
+otacilio costa,credit_card,3
+antonio prado,credit_card,3
+santana do manhuacu,credit_card,3
+tres fronteiras,credit_card,3
+arandu,credit_card,3
+rio maria,credit_card,3
+macedonia,credit_card,3
+florestopolis,credit_card,3
+ouro preto do oeste,credit_card,3
+coruripe,credit_card,3
+araputanga,credit_card,3
+travessao,credit_card,3
+macaiba,credit_card,3
+trancoso,credit_card,3
+luzilandia,credit_card,3
+orindiuva,credit_card,3
+oriente,credit_card,3
+alvorada do norte,credit_card,3
+marco,credit_card,3
+estreito,credit_card,3
+roque gonzales,credit_card,3
+maristela,credit_card,3
+maripa,credit_card,3
+estrela do norte,credit_card,3
+santa rita do araguaia,credit_card,3
+ronda alta,credit_card,3
+eugenopolis,credit_card,3
+curaca,credit_card,3
+amelia rodrigues,credit_card,3
+santa terezinha de itaipu,credit_card,3
+maria da fe,credit_card,3
+urania,credit_card,3
+maravilhas,credit_card,3
+manga,credit_card,3
+cruzeiro do sul,credit_card,3
+fatima do sul,credit_card,3
+cruzalia,credit_card,3
+novo sao joaquim,credit_card,3
+cruz machado,credit_card,3
+uibai,credit_card,3
+nuporanga,credit_card,3
+ritapolis,credit_card,3
+mantenopolis,credit_card,3
+ubaitaba,credit_card,3
+anta,credit_card,3
+olindina,credit_card,3
+uaua,credit_card,3
+taiuva,credit_card,3
+santa barbara d oeste,credit_card,3
+remanso,credit_card,3
+ipiranga,credit_card,3
+sao joao do manteninha,credit_card,3
+itarantim,credit_card,3
+pien,credit_card,3
+sao sebastiao da grama,credit_card,3
+quinta do sol,credit_card,3
+quilombo,credit_card,3
+sao joao do piaui,credit_card,3
+serranopolis,credit_card,3
+sao sebastiao do alto,credit_card,3
+itapitanga,credit_card,3
+canapolis,credit_card,3
+itapissuma,credit_card,3
+camutanga,credit_card,3
+campos gerais,credit_card,3
+caarapo,credit_card,3
+cabeceira grande,credit_card,3
+guaruja do sul,credit_card,3
+cerro azul,credit_card,3
+quatro bocas,credit_card,3
+cabrobo,credit_card,3
+ipiacu,credit_card,3
+quintana,credit_card,3
+itaperucu,credit_card,3
+carmo de minas,credit_card,3
+sirinhaem,credit_card,3
+sao joao batista do gloria,credit_card,3
+candido sales,credit_card,3
+sao raimundo nonato,credit_card,3
+quixabeira,credit_card,3
+iepe,credit_card,3
+guaranta do norte,credit_card,3
+silveiras,credit_card,3
+itiuba,credit_card,3
+itirucu,credit_card,3
+porto xavier,credit_card,3
+silva jardim,credit_card,3
+sideropolis,credit_card,3
+sao jose do turvo,credit_card,3
+candido de abreu,credit_card,3
+itauba,credit_card,3
+itau de minas,credit_card,3
+severinia,credit_card,3
+itatinga,credit_card,3
+itatim,credit_card,3
+campos belos,credit_card,3
+ipora do oeste,credit_card,3
+carlos chagas,credit_card,3
+sao jose de uba,credit_card,3
+carneirinho,credit_card,3
+itaju,credit_card,3
+iraquara,credit_card,3
+pote,credit_card,3
+iaciara,credit_card,3
+sao jose de mipibu,credit_card,3
+iati,credit_card,3
+presidente tancredo neves,credit_card,3
+catas altas,credit_card,3
+saudade do iguacu,credit_card,3
+campo do meio,credit_card,3
+presidente medici,credit_card,3
+carrancas,credit_card,3
+sao valentim,credit_card,3
+camapua,credit_card,3
+pouso alto,credit_card,3
+campestre,credit_card,3
+pouso redondo,credit_card,3
+castanheira,credit_card,3
+piranhas,credit_card,3
+itajuipe,credit_card,3
+irani,credit_card,3
+quatigua,credit_card,3
+cedro de sao joao,credit_card,3
+ipua,credit_card,3
+serra dos aimores,credit_card,3
+serra do ramalho,credit_card,3
+centenario do sul,credit_card,3
+cachoeira alta,credit_card,3
+ipubi,credit_card,3
+prudente de morais,credit_card,3
+campos altos,credit_card,3
+itapaci,credit_card,3
+itaoca,credit_card,3
+sao sebastiao do passe,credit_card,3
+ipueiras,credit_card,3
+hidreletrica tucurui,credit_card,3
+seringueiras,credit_card,3
+propria,credit_card,3
+sao sebastiao do maranhao,credit_card,3
+sao jose da bela vista,credit_card,3
+pitanga,credit_card,3
+caiaponia,credit_card,3
+piritiba,credit_card,3
+sao pedro dos ferros,credit_card,3
+itacarambi,credit_card,3
+pedreiras,credit_card,3
+sud mennucci,credit_card,3
+carapebus,credit_card,3
+sume,credit_card,3
+cidreira,credit_card,3
+boa viagem,credit_card,3
+pedro canario,credit_card,3
+indiana,credit_card,3
+jaguari,credit_card,3
+bituruna,credit_card,3
+sao miguel do tapuio,credit_card,3
+carambei,credit_card,3
+igarata,credit_card,3
+guapiara,credit_card,3
+ponte serrada,credit_card,3
+bom jesus do galho,credit_card,3
+pedro osorio,credit_card,3
+ilhota,credit_card,3
+paulistana,credit_card,3
+pedro afonso,credit_card,3
+jacunda,credit_card,3
+pedra bela,credit_card,3
+imigrante,credit_card,3
+paulo de faria,credit_card,3
+peabiru,credit_card,3
+guabiruba,credit_card,3
+guadalupe,credit_card,3
+inacio martins,credit_card,3
+sao geraldo,credit_card,3
+sao goncalo do para,credit_card,3
+jaiba,credit_card,3
+jardim,credit_card,3
+pedralva,credit_card,3
+inaciolandia,credit_card,3
+bofete,credit_card,3
+cardoso,credit_card,3
+regeneracao,credit_card,3
+capao do leao,credit_card,3
+reginopolis,credit_card,3
+carajas,credit_card,3
+carbonita,credit_card,3
+pereiro,credit_card,3
+governador portela,credit_card,3
+jatoba,credit_card,3
+inhapim,credit_card,3
+guaraciaba,credit_card,3
+soledade de minas,credit_card,3
+quixeramobim,credit_card,3
+tailandia,credit_card,3
+canelinha,credit_card,3
+ivate,credit_card,3
+borda da mata,credit_card,3
+sao ludgero,credit_card,3
+bonfim,credit_card,3
+jacaraci,credit_card,3
+guaraci,credit_card,3
+patu,credit_card,3
+bom repouso,credit_card,3
+periquito,credit_card,3
+pongai,credit_card,3
+carius,credit_card,3
+jeceaba,credit_card,3
+capitao poco,credit_card,3
+sooretama,credit_card,3
+carire,credit_card,3
+chui,credit_card,3
+pirpirituba,credit_card,2
+prados,credit_card,2
+sao jose do cerrito,credit_card,2
+muquem do sao francisco,credit_card,2
+sao jose do ouro,credit_card,2
+santa maria da boa vista,credit_card,2
+nova fatima,credit_card,2
+posto da mata,credit_card,2
+muniz freire,credit_card,2
+urutai,credit_card,2
+potengi,credit_card,2
+nova itaberaba,credit_card,2
+piripa,credit_card,2
+portalegre,credit_card,2
+santa maria do suacui,credit_card,2
+sao martinho,credit_card,2
+nova olimpia,credit_card,2
+varzea alegre,credit_card,2
+pirauba,credit_card,2
+vargem alegre,credit_card,2
+santa monica,credit_card,2
+pirenopolis,credit_card,2
+pontalina,credit_card,2
+sao jose do hortencio,credit_card,2
+zacarias,credit_card,2
+nova mamore,credit_card,2
+sao miguel do araguaia,credit_card,2
+vale real,credit_card,2
+munhoz de melo,credit_card,2
+sao vicente ferrer,credit_card,2
+sao jose do divino,credit_card,2
+sao tome,credit_card,2
+rosana,credit_card,2
+porangaba,credit_card,2
+sapopema,credit_card,2
+vista alegre do alto,credit_card,2
+xapuri,credit_card,2
+sao pedro do ivai,credit_card,2
+narandiba,credit_card,2
+vianopolis,credit_card,2
+nova bandeirantes,credit_card,2
+vicencia,credit_card,2
+salto veloso,credit_card,2
+nova alvorada,credit_card,2
+vitoria do mearim,credit_card,2
+presidente alves,credit_card,2
+santa helena de minas,credit_card,2
+santa cruz de monte castelo,credit_card,2
+nossa senhora do remedio,credit_card,2
+vila langaro,credit_card,2
+santa isabel do ivai,credit_card,2
+nossa senhora do o,credit_card,2
+nossa senhora de caravaggio,credit_card,2
+vila nelita,credit_card,2
+vila nova,credit_card,2
+santa cruz do prata,credit_card,2
+santa ernestina,credit_card,2
+vila rica,credit_card,2
+virgem da lapa,credit_card,2
+virgolandia,credit_card,2
+poloni,credit_card,2
+sao pedro do turvo,credit_card,2
+nova bassano,credit_card,2
+sao jose dos quatro marcos,credit_card,2
+nova esperanca do sul,credit_card,2
+wenceslau guimaraes,credit_card,2
+motuca,credit_card,2
+santa margarida,credit_card,2
+xambre,credit_card,2
+varzelandia,credit_card,2
+sao miguel do guapore,credit_card,2
+santa izabel do oeste,credit_card,2
+sales oliveira,credit_card,2
+werneck,credit_card,2
+nazareno,credit_card,2
+venturosa,credit_card,2
+piumhi,credit_card,2
+wenceslau braz,credit_card,2
+nova brasilandia d'oeste,credit_card,2
+sao jose do rio claro,credit_card,2
+sao miguel dos campos,credit_card,2
+nova cantu,credit_card,2
+nova canaa paulista,credit_card,2
+sao paulo do potengi,credit_card,2
+vere,credit_card,2
+nova canaa do norte,credit_card,2
+vereda,credit_card,2
+porto amazonas,credit_card,2
+planura,credit_card,2
+nova canaa,credit_card,2
+pocinhos,credit_card,2
+tuparetama,credit_card,2
+uruoca,credit_card,2
+perpetuo socorro,credit_card,2
+panelas,credit_card,2
+santo antonio do pinhal,credit_card,2
+sitio novo,credit_card,2
+santo antonio do sudoeste,credit_card,2
+sitio novo do tocantins,credit_card,2
+pentecoste,credit_card,2
+solonopole,credit_card,2
+teolandia,credit_card,2
+sonora,credit_card,2
+ribeiraozinho,credit_card,2
+pendencias,credit_card,2
+ribeirao do sul,credit_card,2
+penaforte,credit_card,2
+pejucara,credit_card,2
+peixoto de azevedo,credit_card,2
+terra nova do norte,credit_card,2
+sitio do quinto,credit_card,2
+tocos,credit_card,2
+sinimbu,credit_card,2
+santo antonio das missoes,credit_card,2
+tobias barreto,credit_card,2
+tiros,credit_card,2
+rio de contas,credit_card,2
+sao joao do ivai,credit_card,2
+piau,credit_card,2
+timbe do sul,credit_card,2
+piacabucu,credit_card,2
+palmeiras de goias,credit_card,2
+palmeirinha,credit_card,2
+santo antonio do grama,credit_card,2
+santo antonio do itambe,credit_card,2
+silvianopolis,credit_card,2
+sao joao de iracema,credit_card,2
+simolandia,credit_card,2
+quixere,credit_card,2
+pedro ii,credit_card,2
+sucupira do norte,credit_card,2
+tejupa,credit_card,2
+tapiramuta,credit_card,2
+tapirai,credit_card,2
+restinga seca,credit_card,2
+tacaratu,credit_card,2
+pauliceia,credit_card,2
+sao francisco de assis,credit_card,2
+tanque novo,credit_card,2
+taciba,credit_card,2
+passira,credit_card,2
+reserva do cabacal,credit_card,2
+reserva,credit_card,2
+resende costa,credit_card,2
+sao felipe,credit_card,2
+tanque d'arca,credit_card,2
+passos maia,credit_card,2
+riachao das neves,credit_card,2
+riacho das almas,credit_card,2
+tabocas do brejo velho,credit_card,2
+pedrinopolis,credit_card,2
+teixeira soares,credit_card,2
+ribeirao do pinhal,credit_card,2
+paranaiguara,credit_card,2
+paranapua,credit_card,2
+sao goncalo do rio preto,credit_card,2
+paranatinga,credit_card,2
+taquarivai,credit_card,2
+sao francisco do conde,credit_card,2
+pedras de fogo,credit_card,2
+rancho alegre,credit_card,2
+tabapora,credit_card,2
+pedra,credit_card,2
+paulo lopes,credit_card,2
+paulo jacinto,credit_card,2
+piedade do rio grande,credit_card,2
+tomar do geru,credit_card,2
+nova soure,credit_card,2
+uchoa,credit_card,2
+ubaporanga,credit_card,2
+riqueza,credit_card,2
+santaluz,credit_card,2
+riolandia,credit_card,2
+ubajara,credit_card,2
+sao jose da vitoria,credit_card,2
+senador amaral,credit_card,2
+rio tinto,credit_card,2
+senador modestino goncalves,credit_card,2
+senador pompeu,credit_card,2
+turvania,credit_card,2
+pintadas,credit_card,2
+sao jose da laje,credit_card,2
+oliveira dos brejinhos,credit_card,2
+sao jose da coroa grande,credit_card,2
+roca sales,credit_card,2
+rodeio bonito,credit_card,2
+piedade dos gerais,credit_card,2
+rodeiro,credit_card,2
+sarapui,credit_card,2
+urucui,credit_card,2
+piranga,credit_card,2
+santa teresinha,credit_card,2
+uruana,credit_card,2
+sao jose do barreiro,credit_card,2
+satuba,credit_card,2
+urai,credit_card,2
+upanema,credit_card,2
+unistalda,credit_card,2
+uniao dos palmares,credit_card,2
+presidente kennedy,credit_card,2
+novo oriente,credit_card,2
+rodelas,credit_card,2
+saude,credit_card,2
+rio real,credit_card,2
+patrocinio do muriae,credit_card,2
+pinheiro,credit_card,2
+tupandi,credit_card,2
+pindai,credit_card,2
+pimenteiras,credit_card,2
+tracunhaem,credit_card,2
+sao joao do triunfo,credit_card,2
+serranopolis do iguacu,credit_card,2
+serrolandia,credit_card,2
+pacoti,credit_card,2
+sao joao do oriente,credit_card,2
+pilar,credit_card,2
+paiva,credit_card,2
+pilao arcado,credit_card,2
+santo amaro de campos,credit_card,2
+sao joao do manhuacu,credit_card,2
+sertanopolis,credit_card,2
+tomazina,credit_card,2
+ouro verde de minas,credit_card,2
+serrania,credit_card,2
+ouro verde,credit_card,2
+tucunduva,credit_card,2
+senhora de oliveira,credit_card,2
+sericita,credit_card,2
+protasio alves,credit_card,2
+oroco,credit_card,2
+oros,credit_card,2
+serra de sao bento,credit_card,2
+oscar bressane,credit_card,2
+tres arroios,credit_card,2
+santana do cariri,credit_card,2
+sao jorge do patrocinio,credit_card,2
+quatis,credit_card,2
+santana do mundau,credit_card,2
+pindare mirim,credit_card,2
+santana do serido,credit_card,2
+ribeirao branco,credit_card,2
+abadia dos dourados,credit_card,2
+zortea,credit_card,2
+belmonte,credit_card,2
+ferros,credit_card,2
+jacareacanga,credit_card,2
+bandeira do sul,credit_card,2
+jacinto,credit_card,2
+jacui,credit_card,2
+carnaubais,credit_card,2
+balneario gaivota,credit_card,2
+baldim,credit_card,2
+baianopolis,credit_card,2
+carolina,credit_card,2
+bacuri,credit_card,2
+carutapera,credit_card,2
+carvalhopolis,credit_card,2
+fazenda vilanova,credit_card,2
+fazenda nova,credit_card,2
+castelo do piaui,credit_card,2
+augusto pestana,credit_card,2
+castro alves,credit_card,2
+catarina,credit_card,2
+janiopolis,credit_card,2
+catu de abrantes,credit_card,2
+euclides da cunha paulista,credit_card,2
+japira,credit_card,2
+euclides da cunha,credit_card,2
+arvorezinha,credit_card,2
+figueiropolis d'oeste,credit_card,2
+jaborandi,credit_card,2
+flor da serra do sul,credit_card,2
+barro alto,credit_card,2
+caputira,credit_card,2
+itapirapua,credit_card,2
+itapiuna,credit_card,2
+itaquirai,credit_card,2
+itaquitinga,credit_card,2
+itatiaiucu,credit_card,2
+caravelas,credit_card,2
+itau,credit_card,2
+itaueira,credit_card,2
+cardoso moreira,credit_card,2
+caririacu,credit_card,2
+florestal,credit_card,2
+ivinhema,credit_card,2
+carlinda,credit_card,2
+itororo,credit_card,2
+ituacu,credit_card,2
+itubera,credit_card,2
+barra dos coqueiros,credit_card,2
+flores,credit_card,2
+barra do mendes,credit_card,2
+floreal,credit_card,2
+barra de sao miguel,credit_card,2
+barra de santa rosa,credit_card,2
+barra de guabiraba,credit_card,2
+jaqueira,credit_card,2
+aruana,credit_card,2
+cavalcante,credit_card,2
+eneas marques,credit_card,2
+julio de castilhos,credit_card,2
+julio mesquita,credit_card,2
+araguapaz,credit_card,2
+jundiai do sul,credit_card,2
+junqueiro,credit_card,2
+centro novo do maranhao,credit_card,2
+juruena,credit_card,2
+aragarcas,credit_card,2
+jussara,credit_card,2
+juvenilia,credit_card,2
+kalore,credit_card,2
+apuiares,credit_card,2
+aramari,credit_card,2
+emilianopolis,credit_card,2
+lagoa da confusao,credit_card,2
+apiai,credit_card,2
+elisio medrado,credit_card,2
+chacara,credit_card,2
+chale,credit_card,2
+lagoa do ouro,credit_card,2
+chapada,credit_card,2
+lagoa dos gatos,credit_card,2
+aparecida de sao manuel,credit_card,2
+lagoa nova,credit_card,2
+esperantina,credit_card,2
+esperantinopolis,credit_card,2
+arroio grande,credit_card,2
+jequitiba,credit_card,2
+estrela do indaia,credit_card,2
+arraias,credit_card,2
+jardim do serido,credit_card,2
+arneiroz,credit_card,2
+arenapolis,credit_card,2
+jatauba,credit_card,2
+arembepe,credit_card,2
+areias,credit_card,2
+estacao,credit_card,2
+areia branca dos assis,credit_card,2
+jequitai,credit_card,2
+areia branca,credit_card,2
+arapei,credit_card,2
+areia,credit_card,2
+aratuba,credit_card,2
+jesupolis,credit_card,2
+espirito santo do turvo,credit_card,2
+araruna,credit_card,2
+araripe,credit_card,2
+ararica,credit_card,2
+arari,credit_card,2
+espigao alto do iguacu,credit_card,2
+espigao,credit_card,2
+jose de freitas,credit_card,2
+itapetim,credit_card,2
+fortuna,credit_card,2
+doverlandia,credit_card,2
+itapecuru mirim,credit_card,2
+guaiuba,credit_card,2
+iconha,credit_card,2
+ielmo marinho,credit_card,2
+igaci,credit_card,2
+cabo verde,credit_card,2
+buritizal,credit_card,2
+grao para,credit_card,2
+buriti dos lopes,credit_card,2
+grao mogol,credit_card,2
+grandes rios,credit_card,2
+buenos aires,credit_card,2
+bueno brandao,credit_card,2
+igreja nova,credit_card,2
+iguai,credit_card,2
+iguaracu,credit_card,2
+iguatama,credit_card,2
+ilha comprida,credit_card,2
+candiota,credit_card,2
+governador celso ramos,credit_card,2
+imaculada,credit_card,2
+imbau,credit_card,2
+canhotinho,credit_card,2
+goianorte,credit_card,2
+goianinha,credit_card,2
+imbuia,credit_card,2
+cacequi,credit_card,2
+cachoeira de pajeu,credit_card,2
+ibiraja,credit_card,2
+guarara,credit_card,2
+guidoval,credit_card,2
+campestre da serra,credit_card,2
+campina das missoes,credit_card,2
+caldeirao grande,credit_card,2
+herval,credit_card,2
+hidrolina,credit_card,2
+holambra ii,credit_card,2
+guariroba,credit_card,2
+guarda-mor,credit_card,2
+ibateguara,credit_card,2
+guaratinga,credit_card,2
+ibiaca,credit_card,2
+ibiraci,credit_card,2
+ibiai,credit_card,2
+campinas do sul,credit_card,2
+campo alegre de goias,credit_card,2
+caibi,credit_card,2
+guarani das missoes,credit_card,2
+caibate,credit_card,2
+caiana,credit_card,2
+guarai,credit_card,2
+cacule,credit_card,2
+cachoeira dourada,credit_card,2
+cachoeira do campo,credit_card,2
+inconfidentes,credit_card,2
+indiapora,credit_card,2
+inhapi,credit_card,2
+itaituba,credit_card,2
+bodoquena,credit_card,2
+capim branco,credit_card,2
+capinzal do norte,credit_card,2
+itagi,credit_card,2
+itagiba,credit_card,2
+boca da mata,credit_card,2
+boa vista do gurupi,credit_card,2
+itaguaje,credit_card,2
+itaguara,credit_card,2
+frecheirinha,credit_card,2
+itaguaru,credit_card,2
+itaja,credit_card,2
+bom jesus das selvas,credit_card,2
+francisco sa,credit_card,2
+francisco dumont,credit_card,2
+francisco badaro,credit_card,2
+itamari,credit_card,2
+itambaraca,credit_card,2
+itamira,credit_card,2
+itamogi,credit_card,2
+bento de abreu,credit_card,2
+benevides,credit_card,2
+capitao leonidas marques,credit_card,2
+belo vale,credit_card,2
+capetinga,credit_card,2
+itabatan,credit_card,2
+inhauma,credit_card,2
+capela de santana,credit_card,2
+goiabeira,credit_card,2
+inimutaba,credit_card,2
+inubia paulista,credit_card,2
+glorinha,credit_card,2
+caninde de sao francisco,credit_card,2
+brasilandia de minas,credit_card,2
+ipaporanga,credit_card,2
+gloria do goita,credit_card,2
+brasil novo,credit_card,2
+ipe,credit_card,2
+braco do rio,credit_card,2
+boqueirao do leao,credit_card,2
+itabaianinha,credit_card,2
+boninal,credit_card,2
+bonfinopolis de minas,credit_card,2
+ipumirim,credit_card,2
+bonfinopolis,credit_card,2
+gaviao peixoto,credit_card,2
+gastao vidigal,credit_card,2
+irai de minas,credit_card,2
+irape,credit_card,2
+irineopolis,credit_card,2
+irupi,credit_card,2
+ita,credit_card,2
+chapada dos guimaraes,credit_card,2
+jijoca de jericoacoara,credit_card,2
+antonio prado de minas,credit_card,2
+matutina,credit_card,2
+marinopolis,credit_card,2
+altamira do parana,credit_card,2
+alta floresta d'oeste,credit_card,2
+alpinopolis,credit_card,2
+martinho campos,credit_card,2
+martins,credit_card,2
+mascote,credit_card,2
+massape,credit_card,2
+alpercata,credit_card,2
+mata grande,credit_card,2
+mata roma,credit_card,2
+matelandia,credit_card,2
+materlandia,credit_card,2
+cumaru,credit_card,2
+alianca do tocantins,credit_card,2
+alhandra,credit_card,2
+alfredo wagner,credit_card,2
+conceicao,credit_card,2
+conceicao da feira,credit_card,2
+mato verde,credit_card,2
+alexania,credit_card,2
+matoes do norte,credit_card,2
+matrincha,credit_card,2
+mariluz,credit_card,2
+alterosa,credit_card,2
+coluna,credit_card,2
+alto rio novo,credit_card,2
+delfinopolis,credit_card,2
+alvares florence,credit_card,2
+alvarenga,credit_card,2
+altos,credit_card,2
+mar vermelho,credit_card,2
+mara rosa,credit_card,2
+altonia,credit_card,2
+maracana,credit_card,2
+alto taquari,credit_card,2
+maranguape,credit_card,2
+alto parana,credit_card,2
+alto alegre,credit_card,2
+david canabarro,credit_card,2
+colonia leopoldina,credit_card,2
+colorado do oeste,credit_card,2
+alto garcas,credit_card,2
+marechal floriano,credit_card,2
+alto caparao,credit_card,2
+damianopolis,credit_card,2
+cururupu,credit_card,2
+curuca,credit_card,2
+alto alegre do iguacu,credit_card,2
+alexandria,credit_card,2
+cubati,credit_card,2
+denise,credit_card,2
+maua da serra,credit_card,2
+cortes,credit_card,2
+mombuca,credit_card,2
+moncoes,credit_card,2
+correntina,credit_card,2
+monnerat,credit_card,2
+montauri,credit_card,2
+monte alegre,credit_card,2
+monte alegre de minas,credit_card,2
+congonhinhas,credit_card,2
+coronel martins,credit_card,2
+coronel macedo,credit_card,2
+conquista,credit_card,2
+monte gordo,credit_card,2
+corguinho,credit_card,2
+acaiaca,credit_card,2
+abrantes,credit_card,2
+montezuma,credit_card,2
+morada nova de minas,credit_card,2
+moreilandia,credit_card,2
+abare,credit_card,2
+corbelia,credit_card,2
+abaira,credit_card,2
+abaiara,credit_card,2
+conde,credit_card,2
+mogi-mirim,credit_card,2
+corumbatai,credit_card,2
+cristais,credit_card,2
+conceicao das pedras,credit_card,2
+cruzilia,credit_card,2
+medeiros,credit_card,2
+alambari,credit_card,2
+alagoinha,credit_card,2
+meruoca,credit_card,2
+cristiano otoni,credit_card,2
+cristalia,credit_card,2
+ajuricaba,credit_card,2
+cristalandia,credit_card,2
+miraima,credit_card,2
+cotriguacu,credit_card,2
+crissiumal,credit_card,2
+crisolita,credit_card,2
+aguas vermelhas,credit_card,2
+mirandiba,credit_card,2
+miranorte,credit_card,2
+aguas formosas,credit_card,2
+conceicao do jacuipe,credit_card,2
+coxilha,credit_card,2
+couto de magalhaes,credit_card,2
+agua santa,credit_card,2
+colonia castrolanda,credit_card,2
+curiuva,credit_card,2
+camocim de sao felix,credit_card,2
+cocal do sul,credit_card,2
+divisa alegre,credit_card,2
+limeira do oeste,credit_card,2
+macaparana,credit_card,2
+machacalis,credit_card,2
+analandia,credit_card,2
+lima duarte,credit_card,2
+cocalinho,credit_card,2
+americano do brasil,credit_card,2
+liberdade,credit_card,2
+diorama,credit_card,2
+dionisio,credit_card,2
+mae do rio,credit_card,2
+antonio carlos,credit_card,2
+coelho neto,credit_card,2
+claudia,credit_card,2
+andrelandia,credit_card,2
+luz,credit_card,2
+lupionopolis,credit_card,2
+lupercio,credit_card,2
+anta gorda,credit_card,2
+dois irmaos do buriti,credit_card,2
+anitapolis,credit_card,2
+anita garibaldi,credit_card,2
+domiciano ribeiro,credit_card,2
+chaveslandia,credit_card,2
+luiziana,credit_card,2
+lourdes,credit_card,2
+dom vicoso,credit_card,2
+dom pedro,credit_card,2
+angulo,credit_card,2
+luiz alves,credit_card,2
+magda,credit_card,2
+anadia,credit_card,2
+dores do rio preto,credit_card,2
+laranjal,credit_card,2
+manduri,credit_card,2
+amarante,credit_card,2
+dormentes,credit_card,2
+manoel ribas,credit_card,2
+lavras da mangabeira,credit_card,2
+amapora,credit_card,2
+leandro ferreira,credit_card,2
+mairi,credit_card,2
+colinas,credit_card,2
+colmeia,credit_card,2
+sao benedito do sul,credit_card,1
+conselheiro mairinck,credit_card,1
+candido godoi,credit_card,1
+candelaria,credit_card,1
+sao roque de minas,credit_card,1
+sao bentinho,credit_card,1
+santo antonio do palma,credit_card,1
+sao benedito do rio preto,credit_card,1
+sao joao da parauna,credit_card,1
+candeias do jamari,credit_card,1
+candido mendes,credit_card,1
+candeal,credit_card,1
+cerro grande do sul,credit_card,1
+sapeacu,credit_card,1
+constantina,credit_card,1
+candoi,credit_card,1
+sao rafael,credit_card,1
+cerejeiras,credit_card,1
+sao joao do itaperiu,credit_card,1
+campanario,credit_card,1
+conceicao do caninde,credit_card,1
+sao joaquim do monte,credit_card,1
+central de santa helena,credit_card,1
+sao pedro da uniao,credit_card,1
+sao pedro de alcantara,credit_card,1
+sao joao d'alianca,credit_card,1
+sao pedro do iguacu,credit_card,1
+conceicao do formoso,credit_card,1
+campestre do maranhao,credit_card,1
+campina da lagoa,credit_card,1
+sao bento abade,credit_card,1
+chaval,credit_card,1
+sao pedro do sul,credit_card,1
+centralina,credit_card,1
+chapada do norte,credit_card,1
+sao sebastiao da amoreira,credit_card,1
+charrua,credit_card,1
+sao sebastiao da boa vista,credit_card,1
+santo antonio do taua,credit_card,1
+campo do tenente,credit_card,1
+campo do brito,credit_card,1
+santo antonio do planalto,credit_card,1
+santo expedito,credit_card,1
+campinacu,credit_card,1
+campo bonito,credit_card,1
+cha grande,credit_card,1
+sao joao do sabugi,credit_card,1
+sao thome das letras,credit_card,1
+santo eduardo,credit_card,1
+cha de alegria,credit_card,1
+sao vendelino,credit_card,1
+sao joao da urtiga,credit_card,1
+campo azul,credit_card,1
+santo antonio do rio abaixo,credit_card,1
+conquista d'oeste,credit_card,1
+conrado,credit_card,1
+campo alegre do fidalgo,credit_card,1
+santo antonio dos campos,credit_card,1
+chapadao do lageado,credit_card,1
+sao joao de petropolis,credit_card,1
+campo grande do piaui,credit_card,1
+canaa,credit_card,1
+sape,credit_card,1
+sao vitor,credit_card,1
+canapi,credit_card,1
+cerro negro,credit_card,1
+sao sebastiao de campos,credit_card,1
+cezarina,credit_card,1
+sao joao do sul,credit_card,1
+condeuba,credit_card,1
+sao joao do sobrado,credit_card,1
+sao sebastiao do paraiba,credit_card,1
+campina do monte alegre,credit_card,1
+confins,credit_card,1
+campos verdes,credit_card,1
+santo inacio,credit_card,1
+campo magro,credit_card,1
+canitar,credit_card,1
+santo hipolito,credit_card,1
+sao joao da ponte,credit_card,1
+sao jorge d'oeste,credit_card,1
+carnaubal,credit_card,1
+conceicao do almeida,credit_card,1
+caracol,credit_card,1
+sao francisco do humaita,credit_card,1
+carinhanha,credit_card,1
+caridade,credit_card,1
+careacu,credit_card,1
+sao domingos do maranhao,credit_card,1
+sao domingos do araguaia,credit_card,1
+caraubas,credit_card,1
+caturama,credit_card,1
+caraibas,credit_card,1
+caraiba,credit_card,1
+cocalzinho de goias,credit_card,1
+chopinzinho,credit_card,1
+sao domingos das dores,credit_card,1
+sao luis do curu,credit_card,1
+capoeiras,credit_card,1
+sao desiderio,credit_card,1
+sao cristovao do sul,credit_card,1
+sao luis do quitunde,credit_card,1
+cocais,credit_card,1
+sao joao de pirabas,credit_card,1
+sao geraldo do baguari,credit_card,1
+combinado,credit_card,1
+sao jose dos cordeiros,credit_card,1
+sao francisco do guapore,credit_card,1
+sao francisco do gloria,credit_card,1
+sao jose do xingu,credit_card,1
+sao jose do piaui,credit_card,1
+sao jose do ribeirao,credit_card,1
+sao fernando,credit_card,1
+carnauba dos dantas,credit_card,1
+carnaiba do sertao,credit_card,1
+sao jose do inhacora,credit_card,1
+colinas do tocantins,credit_card,1
+carmopolis,credit_card,1
+sao jose do goiabal,credit_card,1
+sao jose do serido,credit_card,1
+carmolandia,credit_card,1
+coite do noia,credit_card,1
+carmesia,credit_card,1
+coimbra,credit_card,1
+caseiros,credit_card,1
+sao felix do coribe,credit_card,1
+sao felix do araguaia,credit_card,1
+sao felix de minas,credit_card,1
+colonia jordaozinho,credit_card,1
+cassia dos coqueiros,credit_card,1
+castanheiras,credit_card,1
+caxambu do sul,credit_card,1
+caxingo,credit_card,1
+sao mamede,credit_card,1
+sao miguel do cambui,credit_card,1
+claraval,credit_card,1
+cipo-guacu,credit_card,1
+sao miguel do gostoso,credit_card,1
+sao bonifacio,credit_card,1
+cipo,credit_card,1
+cidelandia,credit_card,1
+chorrocho,credit_card,1
+capela do alto,credit_card,1
+chorozinho,credit_card,1
+colniza,credit_card,1
+caparao,credit_card,1
+capao do cipo,credit_card,1
+canudos,credit_card,1
+sao nicolau,credit_card,1
+sao patricio,credit_card,1
+canto do buriti,credit_card,1
+sao paulo das missoes,credit_card,1
+sao jorge do ivai,credit_card,1
+sao bernardo,credit_card,1
+cantanhede,credit_card,1
+sao bernardino,credit_card,1
+sao goncalo do rio das pedras,credit_card,1
+capela do alto alegre,credit_card,1
+coari,credit_card,1
+conceicao da ibitipoca,credit_card,1
+ceara-mirim,credit_card,1
+capitao eneas,credit_card,1
+cedro,credit_card,1
+sao clemente,credit_card,1
+capitao andrade,credit_card,1
+sao goncalo do abaete,credit_card,1
+capitao,credit_card,1
+capistrano,credit_card,1
+clevelandia,credit_card,1
+sao mateus de minas,credit_card,1
+sao mateus do maranhao,credit_card,1
+sao carlos do ivai,credit_card,1
+claro dos pocoes,credit_card,1
+sao bras do suacui,credit_card,1
+sao miguel das matas,credit_card,1
+ceilandia,credit_card,1
+central,credit_card,1
+sao bras,credit_card,1
+cambira,credit_card,1
+sao miguel do aleixo,credit_card,1
+sao miguel do anta,credit_card,1
+capela,credit_card,1
+bom retiro,credit_card,1
+cambiasca,credit_card,1
+umbauba,credit_card,1
+andarai,credit_card,1
+andre da rocha,credit_card,1
+uniao,credit_card,1
+andrequice,credit_card,1
+angelina,credit_card,1
+angical do piaui,credit_card,1
+umburatiba,credit_card,1
+ulianopolis,credit_card,1
+ananas,credit_card,1
+uirauna,credit_card,1
+angicos,credit_card,1
+anguera,credit_card,1
+ubirajara,credit_card,1
+angustura,credit_card,1
+anhandui,credit_card,1
+anhembi,credit_card,1
+anastacio,credit_card,1
+urandi,credit_card,1
+trairi,credit_card,1
+urucurituba,credit_card,1
+valao do barro,credit_card,1
+amanari,credit_card,1
+amapa do maranhao,credit_card,1
+amaraji,credit_card,1
+urupa,credit_card,1
+amargosa,credit_card,1
+america dourada,credit_card,1
+urucuia,credit_card,1
+amparo da serra,credit_card,1
+urucuca,credit_card,1
+urucania,credit_card,1
+urubici,credit_card,1
+americo de campos,credit_card,1
+uruana de minas,credit_card,1
+ametista do sul,credit_card,1
+amontada,credit_card,1
+ubata,credit_card,1
+anhumas,credit_card,1
+antonina do norte,credit_card,1
+araguaia,credit_card,1
+aquidaba,credit_card,1
+trombas,credit_card,1
+aquiraz,credit_card,1
+trindade do sul,credit_card,1
+aracatu,credit_card,1
+araci,credit_card,1
+aragoiania,credit_card,1
+araguana,credit_card,1
+antonio cardoso,credit_card,1
+tres irmaos,credit_card,1
+araguatins,credit_card,1
+tres forquilhas,credit_card,1
+aramina,credit_card,1
+arantina,credit_card,1
+araponga,credit_card,1
+arapua,credit_card,1
+apuarema,credit_card,1
+apore,credit_card,1
+apora,credit_card,1
+tuiuti,credit_card,1
+turvolandia,credit_card,1
+turvelandia,credit_card,1
+antonio goncalves,credit_card,1
+tururu,credit_card,1
+antonio martins,credit_card,1
+antonio pereira,credit_card,1
+tupassi,credit_card,1
+tuparendi,credit_card,1
+tuparece,credit_card,1
+antunes,credit_card,1
+aparecida de monte alto,credit_card,1
+aparecida do rio negro,credit_card,1
+tunas do parana,credit_card,1
+tunapolis,credit_card,1
+tumiritinga,credit_card,1
+vale do sol,credit_card,1
+alvorada do gurgueia,credit_card,1
+alvorada d'oeste,credit_card,1
+agua limpa,credit_card,1
+vitoria do jari,credit_card,1
+agua clara,credit_card,1
+vitoria das missoes,credit_card,1
+agua comprida,credit_card,1
+agua doce,credit_card,1
+agua fria de goias,credit_card,1
+viseu,credit_card,1
+agua nova,credit_card,1
+vila pereira,credit_card,1
+agua preta,credit_card,1
+virginia,credit_card,1
+aguas de santa barbara,credit_card,1
+aguas de sao pedro,credit_card,1
+aguas frias,credit_card,1
+aguas mornas,credit_card,1
+aguia branca,credit_card,1
+agronomica,credit_card,1
+agrolandia,credit_card,1
+vitorinos,credit_card,1
+agrestina,credit_card,1
+xique-xique,credit_card,1
+xexeu,credit_card,1
+abdon batista,credit_card,1
+xavantina,credit_card,1
+acajutiba,credit_card,1
+acari,credit_card,1
+xambioa,credit_card,1
+witmarsum,credit_card,1
+acegua,credit_card,1
+acucena,credit_card,1
+adhemar de barros,credit_card,1
+wanderley,credit_card,1
+adustina,credit_card,1
+afranio,credit_card,1
+agisse,credit_card,1
+vila reis,credit_card,1
+vila nova do sul,credit_card,1
+alvaro de carvalho,credit_card,1
+alto bela vista,credit_card,1
+altinho,credit_card,1
+varzedo,credit_card,1
+altinopolis,credit_card,1
+varzea nova,credit_card,1
+alto alegre do maranhao,credit_card,1
+varzea,credit_card,1
+alto alegre do pindare,credit_card,1
+varjao de minas,credit_card,1
+ajapi,credit_card,1
+alto paraiso,credit_card,1
+vargem grande do soturno,credit_card,1
+vargem grande,credit_card,1
+alto sao joao,credit_card,1
+vargem,credit_card,1
+vargeao,credit_card,1
+vanini,credit_card,1
+altaneira,credit_card,1
+venda branca,credit_card,1
+almino afonso,credit_card,1
+almas,credit_card,1
+alagoa,credit_card,1
+alagoa grande,credit_card,1
+vila flor,credit_card,1
+alagoa nova,credit_card,1
+vila bela da santissima trindade,credit_card,1
+victor graeff,credit_card,1
+alcantara,credit_card,1
+vicentinopolis,credit_card,1
+alegrete do piaui,credit_card,1
+alexandra,credit_card,1
+alexandrita,credit_card,1
+vertentes,credit_card,1
+vermelho,credit_card,1
+verissimo,credit_card,1
+alfredo marcondes,credit_card,1
+arara,credit_card,1
+traipu,credit_card,1
+cambara do sul,credit_card,1
+brejoes,credit_card,1
+silveira martins,credit_card,1
+silveira carvalho,credit_card,1
+silvano,credit_card,1
+brejo,credit_card,1
+brejo bonito,credit_card,1
+brejo do cruz,credit_card,1
+brejo dos santos,credit_card,1
+severiano melo,credit_card,1
+brazabrantes,credit_card,1
+setubinha,credit_card,1
+brejolandia,credit_card,1
+sete de setembro,credit_card,1
+breves,credit_card,1
+britania,credit_card,1
+sertao santana,credit_card,1
+sertao,credit_card,1
+brejetuba,credit_card,1
+braunas,credit_card,1
+arataca,credit_card,1
+bora,credit_card,1
+bom jesus do sul,credit_card,1
+coqueiro baixo,credit_card,1
+bom retiro do sul,credit_card,1
+bonito de santa fe,credit_card,1
+solanea,credit_card,1
+boquim,credit_card,1
+boquira,credit_card,1
+boraceia,credit_card,1
+simao pereira,credit_card,1
+borrazopolis,credit_card,1
+botelho,credit_card,1
+botuvera,credit_card,1
+siriji,credit_card,1
+bras pires,credit_card,1
+brasilandia,credit_card,1
+brasileia,credit_card,1
+bugre,credit_card,1
+serro,credit_card,1
+serrita,credit_card,1
+cajari,credit_card,1
+senador guiomard,credit_card,1
+senador firmino,credit_card,1
+caiua,credit_card,1
+cajapio,credit_card,1
+selbach,credit_card,1
+sede alvorada,credit_card,1
+seberi,credit_card,1
+calcado,credit_card,1
+buique,credit_card,1
+caldas do jorro,credit_card,1
+california,credit_card,1
+saubara,credit_card,1
+calmon,credit_card,1
+satiro dias,credit_card,1
+camacho,credit_card,1
+sardoa,credit_card,1
+senador jose porfirio,credit_card,1
+senador la rocque,credit_card,1
+caicara do norte,credit_card,1
+senador salgado filho,credit_card,1
+buriti alegre,credit_card,1
+serranopolis de minas,credit_card,1
+buritirama,credit_card,1
+cabeceiras,credit_card,1
+serra dourada,credit_card,1
+serra dos dourados,credit_card,1
+cacaulandia,credit_card,1
+cachoeira da prata,credit_card,1
+serra branca,credit_card,1
+serra azul de minas,credit_card,1
+serra azul,credit_card,1
+cachoeira do brumado,credit_card,1
+serio,credit_card,1
+sento se,credit_card,1
+caetes,credit_card,1
+bom jesus do querendo,credit_card,1
+sucesso,credit_card,1
+bom jesus do araguaia,credit_card,1
+telha,credit_card,1
+terezinha,credit_card,1
+bacaxa,credit_card,1
+teresina de goias,credit_card,1
+baguari,credit_card,1
+balbinos,credit_card,1
+balsa nova,credit_card,1
+tenente ananias,credit_card,1
+banabuiu,credit_card,1
+barra de santo antonio,credit_card,1
+bandeirantes do tocantins,credit_card,1
+barao,credit_card,1
+barao ataliba nogueira,credit_card,1
+teixeira,credit_card,1
+tecainda,credit_card,1
+barao de juparana,credit_card,1
+barao do triunfo,credit_card,1
+termas de ibira,credit_card,1
+avelino lopes,credit_card,1
+avai,credit_card,1
+terra nova,credit_card,1
+areial,credit_card,1
+arenopolis,credit_card,1
+armazem,credit_card,1
+aroeiras,credit_card,1
+arraial d ajuda,credit_card,1
+arroio do tigre,credit_card,1
+arroio trinta,credit_card,1
+assare,credit_card,1
+assuncao,credit_card,1
+atalaia,credit_card,1
+ataleia,credit_card,1
+atilio vivacqua,credit_card,1
+augustinopolis,credit_card,1
+aurea,credit_card,1
+aurora do para,credit_card,1
+barra,credit_card,1
+barra do jacare,credit_card,1
+bom jesus do amparo,credit_card,1
+tabuleiro,credit_card,1
+benedito leite,credit_card,1
+taiacu,credit_card,1
+bequimao,credit_card,1
+berizal,credit_card,1
+biritinga,credit_card,1
+boa ventura,credit_card,1
+tabuleiro do norte,credit_card,1
+boa vista das missoes,credit_card,1
+barra do rio azul,credit_card,1
+boa vista do cadeado,credit_card,1
+boa vista do sul,credit_card,1
+bocaiuva do sul,credit_card,1
+bodo,credit_card,1
+bodoco,credit_card,1
+bom jardim de goias,credit_card,1
+sulina,credit_card,1
+bemposta,credit_card,1
+tamboara,credit_card,1
+tangara,credit_card,1
+belem do sao francisco,credit_card,1
+taquarana,credit_card,1
+taquaracu de minas,credit_card,1
+barra longa,credit_card,1
+barreira,credit_card,1
+barrocas,credit_card,1
+tapinas,credit_card,1
+barrolandia,credit_card,1
+taperuaba,credit_card,1
+tapera,credit_card,1
+bataipora,credit_card,1
+taparuba,credit_card,1
+bataypora,credit_card,1
+bela vista,credit_card,1
+bela vista de minas,credit_card,1
+bela vista do maranhao,credit_card,1
+contenda,credit_card,1
+mossamedes,credit_card,1
+coqueiros do sul,credit_card,1
+parnarama,credit_card,1
+paula freitas,credit_card,1
+paudalho,credit_card,1
+jataizinho,credit_card,1
+jaupaci,credit_card,1
+patrocinio paulista,credit_card,1
+jenipapo de minas,credit_card,1
+jequeri,credit_card,1
+jerico,credit_card,1
+pato bragado,credit_card,1
+pastos bons,credit_card,1
+jeriquara,credit_card,1
+jeronimo monteiro,credit_card,1
+passo de camaragibe,credit_card,1
+jiquirica,credit_card,1
+passagem,credit_card,1
+passa tempo,credit_card,1
+joaima,credit_card,1
+jardim olinda,credit_card,1
+paulino neves,credit_card,1
+jardim de piranhas,credit_card,1
+japaraiba,credit_card,1
+jampruca,credit_card,1
+pedras altas,credit_card,1
+pedrao,credit_card,1
+jandaia,credit_card,1
+jandaira,credit_card,1
+pedra lavrada,credit_card,1
+janduis,credit_card,1
+japaratuba,credit_card,1
+jardim alegre,credit_card,1
+japi,credit_card,1
+pavao,credit_card,1
+japoata,credit_card,1
+jaquirana,credit_card,1
+jaraguari,credit_card,1
+jardim abc de goias,credit_card,1
+paulistania,credit_card,1
+joao alfredo,credit_card,1
+joselandia,credit_card,1
+jambeiro,credit_card,1
+juara,credit_card,1
+paraiso das aguas,credit_card,1
+lagoa de sao francisco,credit_card,1
+lagoa de velhos,credit_card,1
+paraibano,credit_card,1
+lagoa do carro,credit_card,1
+lagoa do mato,credit_card,1
+lagoa do piaui,credit_card,1
+lagoa dos patos,credit_card,1
+lagoa dos tres cantos,credit_card,1
+lagoa real,credit_card,1
+lagoinha do piaui,credit_card,1
+laje do muriae,credit_card,1
+lamarao,credit_card,1
+laranja da terra,credit_card,1
+laranjal do jari,credit_card,1
+pancas,credit_card,1
+palmopolis,credit_card,1
+lagoa da canoa,credit_card,1
+lago verde,credit_card,1
+abadiania,credit_card,1
+paranhos,credit_card,1
+paripueira,credit_card,1
+paripiranga,credit_card,1
+jucas,credit_card,1
+pareci novo,credit_card,1
+pardinho,credit_card,1
+jucurucu,credit_card,1
+junco do serido,credit_card,1
+jupi,credit_card,1
+paraju,credit_card,1
+jurema,credit_card,1
+juscimeira,credit_card,1
+jussari,credit_card,1
+paranacity,credit_card,1
+parana,credit_card,1
+ladainha,credit_card,1
+parambu,credit_card,1
+pedregulho,credit_card,1
+jamapara,credit_card,1
+lencois,credit_card,1
+itarana,credit_card,1
+itaju do colonia,credit_card,1
+piquerobi,credit_card,1
+pio xii,credit_card,1
+pio ix,credit_card,1
+pinto bandeira,credit_card,1
+itanhanga,credit_card,1
+itanhem,credit_card,1
+itapage,credit_card,1
+itaparica,credit_card,1
+pinhal da serra,credit_card,1
+pingo-d'agua,credit_card,1
+pindorama do tocantins,credit_card,1
+pindobacu,credit_card,1
+pindoba,credit_card,1
+itapicuru,credit_card,1
+itapora,credit_card,1
+pimenta,credit_card,1
+piracema,credit_card,1
+piracuruca,credit_card,1
+itaguari,credit_card,1
+itabirinha,credit_card,1
+iracema,credit_card,1
+irai,credit_card,1
+iramaia,credit_card,1
+pires ferreira,credit_card,1
+irara,credit_card,1
+iraucuba,credit_card,1
+itabi,credit_card,1
+pirapo,credit_card,1
+pirai do norte,credit_card,1
+itacoatiara,credit_card,1
+pirapemas,credit_card,1
+itacurussa,credit_card,1
+itagimirim,credit_card,1
+pirambu,credit_card,1
+itaguacu da bahia,credit_card,1
+pirajuba,credit_card,1
+itaporanga d'ajuda,credit_card,1
+itatiba do sul,credit_card,1
+pedrinhas paulista,credit_card,1
+picui,credit_card,1
+pequizeiro,credit_card,1
+jaboti,credit_card,1
+jacarau,credit_card,1
+jaci,credit_card,1
+jaciara,credit_card,1
+jacigua,credit_card,1
+jacuipe,credit_card,1
+peixe,credit_card,1
+pedro velho,credit_card,1
+jaguapita,credit_card,1
+jaguaquara,credit_card,1
+jaguaracu,credit_card,1
+pedro gomes,credit_card,1
+jaguarembe,credit_card,1
+jaguaribara,credit_card,1
+jaguaruna,credit_card,1
+jamaica,credit_card,1
+jabora,credit_card,1
+ivora,credit_card,1
+ivai,credit_card,1
+piacatu,credit_card,1
+itinga,credit_card,1
+picarras,credit_card,1
+picada cafe,credit_card,1
+itiquira,credit_card,1
+piao,credit_card,1
+pianco,credit_card,1
+piacu,credit_card,1
+itirapina,credit_card,1
+iuna,credit_card,1
+itueta,credit_card,1
+itupiranga,credit_card,1
+itutinga,credit_card,1
+perola d'oeste,credit_card,1
+perola,credit_card,1
+perobal,credit_card,1
+peritiba,credit_card,1
+lebon regis,credit_card,1
+leoberto leal,credit_card,1
+pitanga de estrada,credit_card,1
+mirante da serra,credit_card,1
+mauriti,credit_card,1
+maximiliano de almeida,credit_card,1
+nova esperanca do piria,credit_card,1
+nova erechim,credit_card,1
+meleiro,credit_card,1
+nova crixas,credit_card,1
+milha,credit_card,1
+mimoso de goias,credit_card,1
+minduri,credit_card,1
+ministro andreazza,credit_card,1
+nova campina,credit_card,1
+mira estrela,credit_card,1
+nova boa vista,credit_card,1
+miradouro,credit_card,1
+miranda,credit_card,1
+miranda do norte,credit_card,1
+nova america da colina,credit_card,1
+nova floresta,credit_card,1
+matriz de camaragibe,credit_card,1
+nova guarita,credit_card,1
+nova monte verde,credit_card,1
+marques de souza,credit_card,1
+nova santa barbara,credit_card,1
+martinesia,credit_card,1
+nova roma do sul,credit_card,1
+nova roma,credit_card,1
+nova palma,credit_card,1
+massaranduba,credit_card,1
+matias olimpio,credit_card,1
+nova guataporanga,credit_card,1
+nova luzitania,credit_card,1
+mato leitao,credit_card,1
+mato rico,credit_card,1
+nova laranjeiras,credit_card,1
+nova lacerda,credit_card,1
+nova ipixuna,credit_card,1
+nova independencia,credit_card,1
+nova america,credit_card,1
+mirinzal,credit_card,1
+nova timboteua,credit_card,1
+missao velha,credit_card,1
+nantes,credit_card,1
+nacip raydan,credit_card,1
+monte formoso,credit_card,1
+mutum parana,credit_card,1
+monteiropolis,credit_card,1
+mussurepe,credit_card,1
+murutinga do sul,credit_card,1
+murucupi,credit_card,1
+muritiba,credit_card,1
+murici,credit_card,1
+moreira sales,credit_card,1
+morpara,credit_card,1
+morro agudo de goias,credit_card,1
+morro da garca,credit_card,1
+muliterno,credit_card,1
+mucurici,credit_card,1
+morro do pilar,credit_card,1
+monte castelo,credit_card,1
+monte bonito,credit_card,1
+monte alverne,credit_card,1
+nipoa,credit_card,1
+missi,credit_card,1
+nossa senhora das gracas,credit_card,1
+nossa senhora das dores,credit_card,1
+nossa senhora da gloria,credit_card,1
+nortelandia,credit_card,1
+mocajuba,credit_card,1
+moema,credit_card,1
+mojui dos campos,credit_card,1
+monte alegre de sergipe,credit_card,1
+mombaca,credit_card,1
+neopolis,credit_card,1
+mondai,credit_card,1
+montadas,credit_card,1
+nazare da mata,credit_card,1
+montanhas,credit_card,1
+natercia,credit_card,1
+marilandia do sul,credit_card,1
+marilac,credit_card,1
+palminopolis,credit_card,1
+maiquinique,credit_card,1
+lunardelli,credit_card,1
+lutecia,credit_card,1
+luziapolis,credit_card,1
+macambara,credit_card,1
+macambira,credit_card,1
+ouro verde de goias,credit_card,1
+macaubal,credit_card,1
+machadinho,credit_card,1
+machadinho d'oeste,credit_card,1
+ouro,credit_card,1
+ourizona,credit_card,1
+machados,credit_card,1
+macieira,credit_card,1
+macuco,credit_card,1
+madalena,credit_card,1
+osvaldo kroeff,credit_card,1
+mae d'agua,credit_card,1
+pacotuba,credit_card,1
+pacuja,credit_card,1
+padre bernardo,credit_card,1
+loreto,credit_card,1
+palmeiras,credit_card,1
+lindoeste,credit_card,1
+lindoia do sul,credit_card,1
+palmeira d oeste,credit_card,1
+lindolfo collor,credit_card,1
+livramento,credit_card,1
+palmares paulista,credit_card,1
+lucena,credit_card,1
+padre carvalho,credit_card,1
+lucianopolis,credit_card,1
+luis correia,credit_card,1
+palhano,credit_card,1
+luisburgo,credit_card,1
+luizlandia do oeste,credit_card,1
+paial,credit_card,1
+padre paraiso,credit_card,1
+magalhaes de almeida,credit_card,1
+mairipotaba,credit_card,1
+nova ubirata,credit_card,1
+orobo,credit_card,1
+novo planalto,credit_card,1
+novo oriente do piaui,credit_card,1
+novo oriente de minas,credit_card,1
+marcelino vieira,credit_card,1
+novo jardim,credit_card,1
+novo itacolomi,credit_card,1
+marcos parente,credit_card,1
+marechal deodoro,credit_card,1
+mari,credit_card,1
+novo cabrais,credit_card,1
+novo brasil,credit_card,1
+novo barreiro,credit_card,1
+novo alegre,credit_card,1
+mariapolis,credit_card,1
+nova vicosa,credit_card,1
+maribondo,credit_card,1
+mariental,credit_card,1
+maranhaozinho,credit_card,1
+novo repartimento,credit_card,1
+maragogipe,credit_card,1
+manoel viana,credit_card,1
+malhador,credit_card,1
+mambai,credit_card,1
+mamonas,credit_card,1
+orizania,credit_card,1
+mampituba,credit_card,1
+mandirituba,credit_card,1
+onda verde,credit_card,1
+mansidao,credit_card,1
+ocara,credit_card,1
+maquine,credit_card,1
+olhos d'agua,credit_card,1
+olho d'agua das cunhas,credit_card,1
+oleo,credit_card,1
+olaria,credit_card,1
+oiapoque,credit_card,1
+oeiras do para,credit_card,1
+ipupiara,credit_card,1
+ipuiuna,credit_card,1
+coracao de maria,credit_card,1
+romelandia,credit_card,1
+engenheiro passos,credit_card,1
+entre folhas,credit_card,1
+epitaciolandia,credit_card,1
+erere,credit_card,1
+erval grande,credit_card,1
+esmeralda,credit_card,1
+sacra familia do tingua,credit_card,1
+saboeiro,credit_card,1
+sabino,credit_card,1
+rubineia,credit_card,1
+rubim,credit_card,1
+rubiacea,credit_card,1
+estevao de araujo,credit_card,1
+estrela d oeste,credit_card,1
+estrela d'oeste,credit_card,1
+estrela velha,credit_card,1
+rondon,credit_card,1
+salmourao,credit_card,1
+engenheiro navarro,credit_card,1
+engenheiro beltrao,credit_card,1
+doutor camargo,credit_card,1
+santa cecilia do pavao,credit_card,1
+dona emma,credit_card,1
+santa barbara do sul,credit_card,1
+santa barbara do para,credit_card,1
+dona euzebia,credit_card,1
+dona francisca,credit_card,1
+dores de guanhaes,credit_card,1
+sandolandia,credit_card,1
+embauba,credit_card,1
+duas barras,credit_card,1
+duere,credit_card,1
+salvador do sul,credit_card,1
+echapora,credit_card,1
+elisiario,credit_card,1
+salto grande,credit_card,1
+salto do itarare,credit_card,1
+roncador,credit_card,1
+romaria,credit_card,1
+santa clara do sul,credit_card,1
+ewbank da camara,credit_card,1
+florida,credit_card,1
+florinia,credit_card,1
+rio formoso,credit_card,1
+rio dos indios,credit_card,1
+rio dos cedros,credit_card,1
+rio doce,credit_card,1
+fonseca,credit_card,1
+rio do pires,credit_card,1
+fontoura xavier,credit_card,1
+formigueiro,credit_card,1
+rio do antonio,credit_card,1
+formosa da serra negra,credit_card,1
+fortaleza dos valos,credit_card,1
+fortim,credit_card,1
+foz do jordao,credit_card,1
+rio das antas,credit_card,1
+fragosos,credit_card,1
+floresta do araguaia,credit_card,1
+flores de goias,credit_card,1
+florania,credit_card,1
+felixlandia,credit_card,1
+extremoz,credit_card,1
+fagundes,credit_card,1
+fatima,credit_card,1
+felicio dos santos,credit_card,1
+felipe guerra,credit_card,1
+riversul,credit_card,1
+felisburgo,credit_card,1
+feliz deserto,credit_card,1
+florai,credit_card,1
+feliz natal,credit_card,1
+fenix,credit_card,1
+rio rufino,credit_card,1
+fernao,credit_card,1
+ferreiros,credit_card,1
+filadelfia,credit_card,1
+flora rica,credit_card,1
+santa clara d'oeste,credit_card,1
+dom macedo costa,credit_card,1
+rio bonito do iguacu,credit_card,1
+santa rita de minas,credit_card,1
+cotegipe,credit_card,1
+cravolandia,credit_card,1
+santana do itarare,credit_card,1
+santana do deserto,credit_card,1
+cristal,credit_card,1
+santana da boa vista,credit_card,1
+cristinapolis,credit_card,1
+crominia,credit_card,1
+santa terezinha,credit_card,1
+santa tereza do oeste,credit_card,1
+cuite velho,credit_card,1
+santa salete,credit_card,1
+santa rosa do sul,credit_card,1
+cujubim,credit_card,1
+santa rosa de lima,credit_card,1
+cumari,credit_card,1
+cupira,credit_card,1
+costa marques,credit_card,1
+santana do sobrado,credit_card,1
+corumba de goias,credit_card,1
+santo antonio de goias,credit_card,1
+santo antonio do canaa,credit_card,1
+santo antonio do caiua,credit_card,1
+santo antonio do aventureiro,credit_card,1
+santo antonio do aracangua,credit_card,1
+coroaci,credit_card,1
+coronel domingos soares,credit_card,1
+coronel freitas,credit_card,1
+santo antonio das queimadas,credit_card,1
+correntes,credit_card,1
+coronel joao pessoa,credit_card,1
+santo antonio da alegria,credit_card,1
+santo antonio,credit_card,1
+coronel murta,credit_card,1
+coronel pacheco,credit_card,1
+corrego do ouro,credit_card,1
+corrego fundo,credit_card,1
+santa rita do itueto,credit_card,1
+santa rita de jacutinga,credit_card,1
+mucuge,credit_card,1
+curral de cima,credit_card,1
+dias d avila,credit_card,1
+diogo de vasconcelos,credit_card,1
+divinesia,credit_card,1
+divino das laranjeiras,credit_card,1
+divino de sao lourenco,credit_card,1
+divinolandia de minas,credit_card,1
+divinopolis de goias,credit_card,1
+santa fe de minas,credit_card,1
+divinopolis do tocantins,credit_card,1
+divisa nova,credit_card,1
+dobrada,credit_card,1
+dois riachos,credit_card,1
+dom aquino,credit_card,1
+santa cruz de salinas,credit_card,1
+dom basilio,credit_card,1
+dom cavati,credit_card,1
+santa cruz de goias,credit_card,1
+santa isabel do rio preto,credit_card,1
+diamante d'oeste,credit_card,1
+dezesseis de novembro,credit_card,1
+santa maria do herval,credit_card,1
+santa rita da floresta,credit_card,1
+santa quiteria do maranhao,credit_card,1
+curvelandia,credit_card,1
+dario meira,credit_card,1
+datas,credit_card,1
+santa maria do salto,credit_card,1
+santa maria do para,credit_card,1
+delfim moreira,credit_card,1
+santa leopoldina,credit_card,1
+demerval lobao,credit_card,1
+santa maria da serra,credit_card,1
+deodapolis,credit_card,1
+desembargador otoni,credit_card,1
+santa luzia do norte,credit_card,1
+desterro,credit_card,1
+desterro de entre rios,credit_card,1
+francisco santos,credit_card,1
+frei martinho,credit_card,1
+pitimbu,credit_card,1
+igarape-miri,credit_card,1
+ibirapua,credit_card,1
+ibirataia,credit_card,1
+ibitioca,credit_card,1
+icarai de minas,credit_card,1
+icatu,credit_card,1
+ichu,credit_card,1
+porto trombetas,credit_card,1
+porto rico,credit_card,1
+igapora,credit_card,1
+porto lucena,credit_card,1
+porto firme,credit_card,1
+igaracu do tiete,credit_card,1
+igarape-acu,credit_card,1
+porto estrela,credit_card,1
+porto esperidiao,credit_card,1
+porto dos gauchos,credit_card,1
+porto de pedras,credit_card,1
+potim,credit_card,1
+ibiraiaras,credit_card,1
+ibiracatu,credit_card,1
+ibiapina,credit_card,1
+iapu,credit_card,1
+ibema,credit_card,1
+ibertioga,credit_card,1
+presidente kubitschek,credit_card,1
+presidente juscelino,credit_card,1
+ibiajara,credit_card,1
+ibiam,credit_card,1
+ibiara,credit_card,1
+ibipitanga,credit_card,1
+ibiassuce,credit_card,1
+ibicare,credit_card,1
+praia norte,credit_card,1
+ibicoara,credit_card,1
+ibicuitinga,credit_card,1
+ibimirim,credit_card,1
+ibipeba,credit_card,1
+porto calvo,credit_card,1
+igaratinga,credit_card,1
+humildes,credit_card,1
+igrapiuna,credit_card,1
+pocoes de paineiras,credit_card,1
+pocoes,credit_card,1
+poco redondo,credit_card,1
+ipaumirim,credit_card,1
+poco de pedra,credit_card,1
+pocao de pedras,credit_card,1
+ipecaeta,credit_card,1
+ipigua,credit_card,1
+ipiranga de goias,credit_card,1
+planaltino,credit_card,1
+planaltina de goias,credit_card,1
+ipiranga do norte,credit_card,1
+placas,credit_card,1
+ipiranga do sul,credit_card,1
+ipixuna do para,credit_card,1
+ipueira,credit_card,1
+pium,credit_card,1
+iomere,credit_card,1
+pocrane,credit_card,1
+inhuma,credit_card,1
+ponto belo,credit_card,1
+porto acre,credit_card,1
+porteiras,credit_card,1
+ilha de itamaraca,credit_card,1
+ilha dos valadares,credit_card,1
+populina,credit_card,1
+ponto novo,credit_card,1
+ponto dos volantes,credit_card,1
+pontes gestal,credit_card,1
+ingai,credit_card,1
+ilha grande,credit_card,1
+ponte alta do norte,credit_card,1
+pontao,credit_card,1
+pontalinda,credit_card,1
+imbe de minas,credit_card,1
+independencia,credit_card,1
+indiaroba,credit_card,1
+iacri,credit_card,1
+humberto de campos,credit_card,1
+frei rogerio,credit_card,1
+redencao do gurgueia,credit_card,1
+riacho de santo antonio,credit_card,1
+gloria de dourados,credit_card,1
+riacho da cruz,credit_card,1
+riachinho,credit_card,1
+retirolandia,credit_card,1
+goiandira,credit_card,1
+ressaquinha,credit_card,1
+goncalves,credit_card,1
+gongogi,credit_card,1
+governador dix-sept rosado,credit_card,1
+governador eugenio barros,credit_card,1
+remigio,credit_card,1
+governador lindenberg,credit_card,1
+governador mangabeira,credit_card,1
+graccho cardoso,credit_card,1
+gramado dos loureiros,credit_card,1
+gramado xavier,credit_card,1
+glaura,credit_card,1
+riachuelo,credit_card,1
+girau do ponciano,credit_card,1
+galvao,credit_card,1
+fruta de leite,credit_card,1
+frutuoso gomes,credit_card,1
+rincao,credit_card,1
+rifaina,credit_card,1
+gabriel monteiro,credit_card,1
+ribeirao vermelho,credit_card,1
+galinhos,credit_card,1
+gameleiras,credit_card,1
+ribas do rio pardo,credit_card,1
+garruchos,credit_card,1
+general camara,credit_card,1
+general maynard,credit_card,1
+gentio do ouro,credit_card,1
+getulina,credit_card,1
+ribeira do amparo,credit_card,1
+gilbues,credit_card,1
+redentora,credit_card,1
+redencao da serra,credit_card,1
+princesa isabel,credit_card,1
+recreio,credit_card,1
+queiroz,credit_card,1
+guassusse,credit_card,1
+guatapara,credit_card,1
+guia lopes da laguna,credit_card,1
+quatro pontes,credit_card,1
+guimaraes,credit_card,1
+quatituba,credit_card,1
+guimarania,credit_card,1
+guinda,credit_card,1
+guzolandia,credit_card,1
+heliopolis,credit_card,1
+quadra,credit_card,1
+puxinana,credit_card,1
+putinga,credit_card,1
+purilandia,credit_card,1
+herculandia,credit_card,1
+herveiras,credit_card,1
+queluz,credit_card,1
+querencia do norte,credit_card,1
+quijingue,credit_card,1
+guajara-mirim,credit_card,1
+rechan,credit_card,1
+guabiju,credit_card,1
+ravena,credit_card,1
+guairaca,credit_card,1
+raposo,credit_card,1
+rancho queimado,credit_card,1
+rancho alegre d'oeste,credit_card,1
+guamare,credit_card,1
+quilometro 14 do mutum,credit_card,1
+guape,credit_card,1
+guapirama,credit_card,1
+guaraniacu,credit_card,1
+quitandinha,credit_card,1
+guarapua,credit_card,1
+guaraquecaba,credit_card,1
+quipapa,credit_card,1
+dom joaquim,credit_card,1
