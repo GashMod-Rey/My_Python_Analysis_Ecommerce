@@ -274,7 +274,7 @@ st.write('')
 st.subheader('Advanced Analysis')
 st.caption('Geoanalysis Data Pengguna Kartu Kredit dalam Peta')
 
-geo = pd.read_csv("https://raw.githubusercontent.com/GashMod-Rey/Analisis_Data_dengan_Python/main/data/geolocation_dataset.csv?token=GHSAT0AAAAAAB76ZWHZWR5UB2S5GEELISTIZFOODQA")
+geo = pd.read_csv("https://raw.githubusercontent.com/GashMod-Rey/Analisis_Data_dengan_Python/main/data/geolocation_dataset.csv?token=GHSAT0AAAAAAB76ZWHZJLTW3DPYAB37GFNEZFOOGWA")
 geo = geo.groupby(by='geolocation_city').mean().drop('geolocation_zip_code_prefix', axis=1)
 k = cc_sort.merge(geo, how='left', left_on='customer_city', right_on='geolocation_city')
 fig = px.scatter_geo(k, lat='geolocation_lat',lon='geolocation_lng', hover_name="customer_city", hover_data=["count"])
