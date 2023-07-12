@@ -7,8 +7,8 @@ import plotly.express as px
 sns.set(style='dark')
 st.header(":shopping_bags: E-Commerce Dashboard :shopping_bags:")
 
-product = pd.read_csv("https://raw.githubusercontent.com/GashMod-Rey/Analisis_Data_dengan_Python/3645a12f26e2ec9bbcc4a44b9e982cc916249143/dashboard/product_type_dimension.csv?token=GHSAT0AAAAAAB76ZWHZV2S7P6Q2CJKXCD7WZFOOBRQ").set_index('product_category_name_english')
-table_final = pd.read_csv("https://raw.githubusercontent.com/GashMod-Rey/Analisis_Data_dengan_Python/3645a12f26e2ec9bbcc4a44b9e982cc916249143/dashboard/credit_card_by_town.csv?token=GHSAT0AAAAAAB76ZWHY4NZF7ATHSEFS3W26ZFOOBJA")
+product = pd.read_csv("https://raw.githubusercontent.com/GashMod-Rey/My_Python_Analysis_Ecommerce/main/dashboard/product_type_dimension.csv").set_index('product_category_name_english')
+table_final = pd.read_csv("https://raw.githubusercontent.com/GashMod-Rey/My_Python_Analysis_Ecommerce/main/dashboard/credit_card_by_town.csv")
 
 # 1 - Volume
 prod_sort = product['volume'].sort_values(ascending=False)
@@ -274,7 +274,7 @@ st.write('')
 st.subheader('Advanced Analysis')
 st.caption('Geoanalysis Data Pengguna Kartu Kredit dalam Peta')
 
-geo = pd.read_csv("https://raw.githubusercontent.com/GashMod-Rey/Analisis_Data_dengan_Python/main/data/geolocation_dataset.csv?token=GHSAT0AAAAAAB76ZWHZJLTW3DPYAB37GFNEZFOOGWA")
+geo = pd.read_csv("https://raw.githubusercontent.com/GashMod-Rey/My_Python_Analysis_Ecommerce/main/data/geolocation_dataset.csv")
 geo = geo.groupby(by='geolocation_city').mean().drop('geolocation_zip_code_prefix', axis=1)
 k = cc_sort.merge(geo, how='left', left_on='customer_city', right_on='geolocation_city')
 fig = px.scatter_geo(k, lat='geolocation_lat',lon='geolocation_lng', hover_name="customer_city", hover_data=["count"])
@@ -292,7 +292,7 @@ with st.expander("Kesimpulan 2 - add."):
 Pengguna kartu kredit banyak terdapat pada region yang ditandai dengan warna merah pada gambar di bawah ini.
         """
     )
-    st.image("https://github.com/GashMod-Rey/Analisis_Data_dengan_Python/blob/3645a12f26e2ec9bbcc4a44b9e982cc916249143/plotcc.png?raw=true")
+    st.image("https://github.com/GashMod-Rey/My_Python_Analysis_Ecommerce/blob/main/plotcc.png?raw=true")
 
 # Sidebar
 with st.sidebar:
@@ -307,7 +307,7 @@ with st.sidebar:
         st.write('')
         st.write('')
 
-        st.image("https://github.com/GashMod-Rey/Analisis_Data_dengan_Python/blob/3645a12f26e2ec9bbcc4a44b9e982cc916249143/dashboard/github-mark.png?raw=true")
+        st.image("https://github.com/GashMod-Rey/My_Python_Analysis_Ecommerce/blob/main/dashboard/github-mark.png?raw=true")
        
         st.write('')
         st.write('')
