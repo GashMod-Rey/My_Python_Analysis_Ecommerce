@@ -7,8 +7,8 @@ import plotly.express as px
 sns.set(style='dark')
 st.header(":shopping_bags: E-Commerce Dashboard :shopping_bags:")
 
-product = pd.read_csv("product_type_dimension.csv").set_index('product_category_name_english')
-table_final = pd.read_csv("credit_card_by_town.csv")
+product = pd.read_csv("https://raw.githubusercontent.com/GashMod-Rey/Analisis_Data_dengan_Python/main/dashboard/product_type_dimension.csv").set_index('product_category_name_english')
+table_final = pd.read_csv("https://raw.githubusercontent.com/GashMod-Rey/Analisis_Data_dengan_Python/main/dashboard/credit_card_by_town.csv")
 
 # 1 - Volume
 prod_sort = product['volume'].sort_values(ascending=False)
@@ -292,7 +292,7 @@ with st.expander("Kesimpulan 2 - add."):
 Pengguna kartu kredit banyak terdapat pada region yang ditandai dengan warna merah pada gambar di bawah ini.
         """
     )
-    st.image("../plotcc.png")
+    st.image("https://github.com/GashMod-Rey/Analisis_Data_dengan_Python/blob/3645a12f26e2ec9bbcc4a44b9e982cc916249143/plotcc.png")
 
 # Sidebar
 with st.sidebar:
@@ -307,7 +307,7 @@ with st.sidebar:
         st.write('')
         st.write('')
 
-        st.image("github-mark.png")
+        st.image("https://github.com/GashMod-Rey/Analisis_Data_dengan_Python/blob/3645a12f26e2ec9bbcc4a44b9e982cc916249143/dashboard/github-mark.png")
        
         st.write('')
         st.write('')
