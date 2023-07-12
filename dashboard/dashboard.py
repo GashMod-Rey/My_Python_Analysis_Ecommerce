@@ -7,8 +7,8 @@ import plotly.express as px
 sns.set(style='dark')
 st.header(":shopping_bags: E-Commerce Dashboard :shopping_bags:")
 
-product = pd.read_csv("https://raw.githubusercontent.com/GashMod-Rey/Analisis_Data_dengan_Python/main/dashboard/product_type_dimension.csv").set_index('product_category_name_english')
-table_final = pd.read_csv("https://raw.githubusercontent.com/GashMod-Rey/Analisis_Data_dengan_Python/main/dashboard/credit_card_by_town.csv")
+product = pd.read_csv("https://github.com/GashMod-Rey/Analisis_Data_dengan_Python/blob/8ffefe516a5f6d6e8cd6c0a1ef22e2e6c451daf5/dashboard/product_type_dimension.csv").set_index('product_category_name_english')
+table_final = pd.read_csv("https://github.com/GashMod-Rey/Analisis_Data_dengan_Python/blob/8ffefe516a5f6d6e8cd6c0a1ef22e2e6c451daf5/dashboard/credit_card_by_town.csv")
 
 # 1 - Volume
 prod_sort = product['volume'].sort_values(ascending=False)
